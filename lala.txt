@@ -1,0 +1,2970 @@
+ Gemini
+My stuff
+Image of
+Image of
+Image of
+Game Story to Gameplay Mechanics
+AI Battle: Walmart Parking Lot Showdown
+make the girl in the couple image wear the red dulhan dress like in the other image attached and the guy in a white sherwani like the image attached
+Old Money 35mm Film Camera
+this image is so cute edit it to make it cuter and better
+अधूरा वाक्य स्पष्टीकरण
+धीमी आवाज में सहायता का अनुरोध
+हेलो gemini
+हेलो gemini
+Differentiating Functions With Logarithmic Differentiation
+Profit Maximization Calculation Explained
+Implicit Differentiation of Complex Equation
+Differentiating Functions Using Chain Rule
+Conversation with Gemini
+
+i tried writing game story but all feel like a movie.... but it should be a game not it should have a gameplay i dont know what to add in gameplay i dont wanna make a powerwash sim tho
+
+
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time where a man is shown and he lost his job because of layoffs then he got into some financial issues he tries to get another job but he couldnt then a random guy comes in front of him and asks him he want to take a watchman job at a kothi in rajasthan village and he agrees.... then he goes there and gets tasks like he should roam in the kothi explore a bit about it and turn on the lights etc clean it because after a month some ppl are arriving to live there.... then he explores the village and buys things for the kothi and also talks to ppl in village and tells he is watchman in the kothi and they react very weirdly and say that the kothi is abandoned for years now then why... so he tells that he got laid off then smone very kind offered him the job after seeing his poor condition and asks if he could get a house somewhere to stay.... the shopkeeper asks him to take care of himself and just stops talking.... he comes back to the kothi and a cutscene is shown that there is a storm in the village ( he thinks that the storm is in village but in reality the storm is near kothi only ) kothi's few windows break.... now after the weird storm he fixes the windows and under one window he sees some weird rusted box there and he struggles to open it a bit and after opening box there is a picture in it.... a picture of some random people but not everyone is random
+
+
+
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time where a man is shown and his father is laying on deathbed and tells his bachelor son or the player to go to village and take care of an abandoned haweli in rajasthan and stops between not because of he didnt want to but he couldnt he was not in the world anymore then the son goes to village curiosly to that abandoned haweli which a couple from foreign bought from a random seller ( who is not authorised to sell this will be disclosed later ) and wants to renovate the house completely
+
+
+
+
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time where a family is show.... owners of haveli....all the villagers kill the family because of there dark arts the village is getting spoiled or evilized so the family's dead now.... and there is a watchman who left alone he was young at that time when family was killed around 30 and after 40 years the main charecters - an engineer comes into the village and sees the haveli then he'll think this is so old and ig i should demolish it and create a supermarket 7/11 there
+
+
+This is a very common problem! You have a strong narrative (the story), but you are missing the mechanics (the verbs: run, hide, shoot, solve, build).
+
+The "Main Samay Hoon" intro is hilarious and sets a great tone—it implies that Time is watching everything.
+
+Here is how we turn your Rajasthan Haveli idea from a movie script into an engaging game, avoiding the "boring cleaning simulator" trap.
+The Core Problem
+
+In a movie, the character fixes a window. In a game, the player must find the wood, avoid the ghost while carrying it, and decide which window to fix first before the storm gets in.
+
+Here are three gameplay directions based on your story concepts. Choose the one that excites you:
+Option 1: The "Paranormal Investigator" (Focus on Mystery & Puzzles)
+
+Best for Story Concept #1 (The Watchman) & #2 (The Son)
+
+Instead of just "cleaning," the gameplay is about forensic archeology. You aren't cleaning the house; you are peeling back layers of history.
+
+The Gameplay Loop:
+
+    The "Samay" Mechanic (Time Vision): Since you start with "Main Samay Hoon," give the player an artifact (an old camera or a lens). When you look through it, you don't see the dirty room; you see the room as it was 40 years ago.
+
+        Puzzle: A door is locked in the present. You look through the lens and see where the key was hidden 40 years ago. You have to go find that spot in the present.
+
+    The Task System: You need to prepare the house for the owners (turning on lights, fixing windows).
+
+        The Twist: The house fights back. You fix the fuse box, but the "ghosts" blow it out when you try to enter the forbidden room. You have to reroute power (a puzzle) to open electronic locks.
+
+    Village Reputation: The villagers won't talk to you. You have to bring them items from the Haveli (evidence) to make them spill the beans.
+
+        Example: Find the "weird rusted box." Take the photo to the shopkeeper. He gets scared and finally tells you who is in the photo.
+
+Option 2: The "Survival Management" (Focus on Tension)
+
+Best for Story Concept #1 (The Watchman)
+
+This turns the "Job" into a survival mechanic. You have limited resources and a timeline.
+
+The Gameplay Loop:
+
+    Day vs. Night Cycle:
+
+        Day: You are safe. You must scavenge the village for supplies (batteries, fuses, wood, food). You talk to villagers to learn "Rules" (e.g., "Don't enter the West wing after 3 PM").
+
+        Night: You are stuck in the Kothi. The storm hits. You have to survive until 6 AM.
+
+    Home Alone Defense: The "storm" breaks windows. You have to barricade them. If you run out of wood, you have to break furniture (which makes the owners angry/lowers your pay).
+
+    Sanity/Fear Meter: If you stay in the dark too long, you hallucinate. You need to keep the generator running.
+
+        Gameplay: The generator is in the basement. It consumes fuel. You have to decide: Do I use my money to buy fuel for light? or food for health?
+
+Option 3: The "Asymmetrical History" (Focus on Story #3 - The Engineer)
+
+Best for Story Concept #3 (The Engineer)
+
+This is the most unique one. You play as the Engineer who wants to destroy the place, but the house is a puzzle box that refuses to be destroyed.
+
+The Gameplay Loop:
+
+    Demolition Tools: Your gameplay involves using sledgehammers, explosives, or surveying drones.
+
+    The Obstacle: You try to mark a wall for demolition. The next day, the wall is fully repaired, and your tools are moved.
+
+    The Mystery: To destroy the house, you must first understand it. You have to find the "Heart" of the Haveli to shut down the supernatural protection.
+
+        Gameplay: You aren't cleaning; you are breaking in. You have to dismantle the "Dark Arts" wards the family left behind.
+
+Recommended "Golden Path" (Combining them)
+
+I suggest sticking with Story #1 (The Watchman) but adding the Time Mechanic. Here is a concrete scene to show how it feels as a game:
+
+Scene: The First Night
+
+    Objective: "Secure the Library Window before the storm worsens."
+
+    Inventory: Flashlight (low battery), Hammer, 3 Planks.
+
+    Action: You walk to the library. It’s dark. You hear footsteps upstairs.
+
+    The Problem: The window is high up. You need a ladder.
+
+    Exploration: You search the hallway. You find a ladder, but it's chained to a wall.
+
+    Puzzle: You find a note from the previous watchman: "I hid the key in the pot where the Tulsi plant used to be."
+
+    Samay Mechanic: You look at the empty courtyard. You use your "Time Lens" to see where the Tulsi plant was 20 years ago. You dig there in the present. You find the key.
+
+    Climax: You get the ladder. The storm bursts the window open. The wind blows out your flashlight. Now you must hammer the planks in the dark while hearing whispering right behind your ear.
+
+Why this works:
+
+    It uses your story: The backstory of the family/Tulsi plant is revealed through gameplay.
+
+    It’s not a movie: The player has to figure out where the key is.
+
+    It’s not Powerwash Sim: You are doing chores (fixing windows) but under pressure and fear.
+
+Does this spark any ideas for what kind of specific "powers" or "tools" the main character might have?
+
+golden path seems nice
+
+That is a fantastic choice. The "Golden Path" allows you to keep the funny/cosmic "Samay" intro and the grounded emotional story of the unemployed man, while making the gameplay actually fun.
+
+Here is a breakdown of how we turn this into a game structure (Game Design Document).
+1. The Opening Sequence (The "Samay" Intro)
+
+Cinematic:
+
+    Visuals: Fast montage. Big Bang (explosion) → Dinosaurs → Mahabharat war scene → Independence day.
+
+    Audio: A deep, booming voice (Samay). "Main Samay hoon... I have seen stars born and die. I have seen empires rise and fall..."
+
+    The Shift: The music stops abruptly with a record scratch sound.
+
+    Visual: Cut to a close-up of a guy eating instant noodles in a messy room, looking at a rejection email on his laptop.
+
+    Audio (Samay, now sarcastic): "And then... there is THIS guy. Ramesh. 28. Unemployed. Look at him. Pathetic."
+
+Transition to Gameplay: You take control of Ramesh immediately after he accepts the job from the stranger.
+2. Core Gameplay Loop: "The Dual Reality"
+
+You are not just a watchman; you are a Time-Walker (unknowingly at first).
+
+The Tools (Your Inventory):
+
+    The Watchman’s Torch: Limited battery. You need to buy batteries from the village shop.
+
+    The "Dada's Pocket Watch": (Found early in the Kothi).
+
+        Mechanic: When you hold Right Click (or trigger), the screen filters change to sepia/black & white.
+
+        Effect: You see the Kothi as it was 40 years ago.
+
+        Gameplay Use: In the present, a door is blocked by a fallen pillar. In the past, the pillar wasn't there. You can't walk through it, but you can see what caused it to fall or find a key that was sitting on a table that no longer exists in the present.
+
+The Loop:
+
+    Morning: Explore the Village. Talk to the Shopkeeper. Sell "junk" you found in the Kothi to buy supplies (food, batteries, fuse wire).
+
+    Evening: Enter the Kothi. The gate locks behind you.
+
+    Night: Complete a specific task (e.g., "Fix the wiring in the Master Bedroom").
+
+    The Event: Paranormal stuff happens. You use the Pocket Watch to solve the puzzle and survive until dawn.
+
+3. Example Mission: "The Generator"
+
+Let's script out that specific "Storm" scene you mentioned.
+
+Objective: "Restore power to the Hall before the storm hits."
+
+Step 1: The Problem You go to the fuse box. It’s rusted shut. You need a Crowbar. You remember seeing one in the shed outside.
+
+Step 2: The Storm (The Twist) You step outside. The wind is howling. The "Storm" is unnatural—purple lightning, whispers in the wind.
+
+    Gameplay: You have a "Stress Meter." If you stay in the storm too long, Ramesh starts panicking (screen blurs, controls shake). You have to run between cover.
+
+Step 3: The Puzzle You reach the shed. It's locked with a combination lock.
+
+    Observation: The lock is old. You can't guess the code.
+
+    Action: You use the Pocket Watch.
+
+    The Past Vision: You see a ghostly vision of a servant 40 years ago nervously punching in the code: 1-9-8-4.
+
+    Execution: You stop the vision, enter 1984 in the present. The lock opens.
+
+Step 4: The Discovery You get the crowbar. Inside the shed, you also find that "Rusted Box" you mentioned. You grab it.
+
+Step 5: The Escape You run back to the house, avoiding the storm. You pry open the fuse box, fix the lights. The lights flicker on... and for a split second, you see someone standing at the top of the stairs. Then they are gone.
+4. The "Village" Gameplay (Social Deduction)
+
+This is where you make the player feel the mystery.
+
+    The Shopkeeper: He has a "Trust Meter."
+
+    Interaction: You show him the Rusted Box you found.
+
+        Low Trust: "I don't know what that is. Buy your milk and leave."
+
+        High Trust (if you helped him earlier): "Hari Om... this belonged to the Chote Malik (Young Master). Where did you find this? You shouldn't be there, son."
+
+Why this fits your skills:
+
+    Assets: You mostly need a "Clean" version of the house and a "Dirty/Ruined" version. You can reuse the same 3D models and just change the textures (add rust/dirt).
+
+    Code: The "Time Vision" is just a camera filter effect and toggling some objects on/off. It’s very doable in Unity/Godot.
+
+    Scope: The game takes place in one house and one small shop area. Very manageable for a solo dev.
+
+What do you think about the "Pocket Watch" mechanic? Does seeing into the past sound fun to implement?
+
+hmmmm.... create a full story tho
+
+Here is a full story structure designed for a game. It mixes the humor of the "Samay" narrator with a dark, emotional mystery.
+
+Game Title Idea: Echoes of Anandgarh (or Samay: The Watchman)
+The Prologue: The Cosmic Joke
+
+Visual: A pitch-black screen. Voice (Deep, booming Baritone): "Main Samay Hoon..." (I am Time). Visual: A rapid-fire, chaotic montage.
+
+    The Big Bang (Explosion!)
+
+    Dinosaurs getting hit by a meteor (Boom!)
+
+    The Kurukshetra War (Arrows flying!)
+
+    The British leaving India (Train whistles!)
+
+    Cut to Silence. Visual: A dim, messy room in Bangalore/Pune. A guy (Ramesh, 28) is staring at a laptop screen: "We regret to inform you..." (Laid off). He slurps instant noodles loudly. Voice (Samay, now sounding disappointed): "I have witnessed the birth of stars and the fall of empires. And now... I have to watch THIS guy. Ramesh. Account Balance: ₹412. Future prospects: Zero."
+
+Act 1: The Offer & The Arrival
+
+Cutscene: Ramesh is at a chai tapri, looking hopeless. A mysterious man in a sharp suit (Mr. Singhania) approaches. He doesn't look at Ramesh, just sips his tea.
+
+    Singhania: "You need money. I need a brave man."
+
+    The Job: Go to Anandgarh, a remote village in Rajasthan. Guard the "Old Varma Haveli" for 30 days. Prepare it for renovation.
+
+    The Pay: 1 Lakh upfront. 5 Lakhs on completion. Ramesh agrees immediately.
+
+Gameplay Begins: Ramesh arrives in the village. It is desolate, dusty, and beautiful.
+
+    Task: Walk to the Haveli.
+
+    Interaction: He meets a Villager. When Ramesh says "Varma Haveli," the villager spits on the ground and walks away. "That is not a home. That is a grave."
+
+Ramesh enters the Haveli. It’s huge, rotting, and full of dust.
+
+    Samay's Voice: "He thinks he’s lucky. He doesn't know the house has been waiting for him."
+
+Act 2: The Loop & The Watch
+
+Days 1-3: Ramesh does boring tasks. Exploring rooms, clearing cobwebs.
+
+    The Discovery: In the Master Bedroom, he finds a Gold Pocket Watch with a cracked glass.
+
+    The Mechanic: When he presses the button, the world shifts. The rotting wallpaper becomes fresh silk. The broken chandelier lights up. He can see the Past (1985).
+
+    Gameplay: He uses the watch to find keys (hidden in the past), fix fuses, and open doors.
+
+The Mystery: Through the watch, he sees "Ghost Echoes" (non-interactive holograms):
+
+    A happy family: A Father (looks kind), a Mother, and a Baby Boy.
+
+    He sees them hiding things. They are afraid of the village.
+
+Act 3: The Storm & The Rusted Box
+
+Day 7: The "Storm" happens.
+
+    The Twist: The village is calm. The storm is only inside the Haveli boundary. Purple lightning. Windows smashing.
+
+    Action: Ramesh must board up the windows.
+
+    The Event: A window breaks in the Study Room. Under the floorboards, revealed by the damage, is the Rusted Box.
+
+Inside the Box:
+
+    A deed to the property (Signed by Varma).
+
+    A photograph.
+
+        It shows the Father, Mother, and the Baby.
+
+        The Shock: Ramesh looks closely. The Baby is holding a cheap plastic toy—a specific red car.
+
+        Inventory Check: Ramesh opens his suitcase. He still has that same red car. It’s his lucky charm since he was an orphan.
+
+        Realization: Ramesh is the baby. This is his house.
+
+Act 4: The Betrayal (The Truth)
+
+Days 10-12: Ramesh goes to the village Shopkeeper (Kaka) with the photo.
+
+    Kaka: Breaks down crying. He reveals the truth.
+
+    The Flashback: 25 years ago, the villagers didn't kill the family because of "Dark Arts." They killed them because of Greed.
+
+    The Villain: Mr. Singhania (the recruiter) was the village money-lender back then. He wanted the Haveli. He rioted the village, accusing the Varmas of witchcraft.
+
+    The parents hid the baby (Ramesh) in a truck leaving the village to save him, but they died protecting the house.
+
+    Why is Ramesh here? Singhania couldn't sell the house because the "Ghosts" of the parents wouldn't let anyone in. He sent Ramesh (the blood heir) hoping the ghosts would think "The Master is back" and leave, or that Ramesh would die trying to clean it.
+
+Act 5: The Climax (The Night of the Blood Moon)
+
+Mr. Singhania arrives early with a demolition crew (bulldozers).
+
+    Samay: "The circle closes. The boy stands where his father fell. What will you do, Ramesh?"
+
+Gameplay: Ramesh is trapped in the house. Singhania’s men are trying to break in. The "Ghosts" of his parents are raging, causing the supernatural storm to destroy everything (including Ramesh).
+
+The Final Puzzle: Ramesh must use the Pocket Watch to synchronize the Past and Present.
+
+    He has to run to the "Ritual Room" (where his parents died).
+
+    He must place the Deed and the Red Car on the altar.
+
+    This proves to the Spirits: I am alive. You succeeded. You can rest now.
+
+The Ending
+
+Good Ending (The Heir): The spirits calm down. They focus their energy outward. A massive spectral wind blows Singhania and his bulldozers away (terrifying them into fleeing forever). The sun rises. The house is still old, but it feels warm, not scary. Ramesh stands at the door. He isn't a watchman. He is the Owner. Samay: "And so, the boy who had nothing, found everything. He didn't just clean the house. He cleaned the past."
+
+Bad Ending (The Coward): Ramesh takes the money Singhania offered and leaves. As he walks away, he hears the house scream. The bulldozers tear it down. Ramesh checks his bank account on his phone. It's full, but he looks into a mirror and sees no reflection. Samay: "Some people... never learn."
+
+Does this story structure connect well with the gameplay you imagined? (We can tweak the "Villain" part if you want it more supernatural and less human-evil).
+
+samay is not watchman..... samay was for fun duhhh main samay hu was opening scene of mahabharat show na old show
+
+Got it! The "Main Samay Hoon" is just the Cold Open—a stylistic, funny hook to set the contrast between "The Universe" and "Broke Ramesh." It’s not the narrator for the whole game.
+
+Here is the refined story structure. It starts with the meme/joke intro, gets serious/spooky, and explains exactly who is in that picture and why the storm is only at the Kothi.
+Title Idea: The Kothi (Wirasat)
+1. The Intro (The "Meme" Cutscene)
+
+Visual: Space, Galaxies, Epic Music. Voice (Deep, B.R. Chopra style): "Main Samay Hoon... I have seen the beginning of time. I have seen the wars of gods. I have seen civilizations rise..." Visual: Fast forward effect (rewind noise). Dinosaurs → Kings → British → 2024. Cut To: Silence. A small, messy room. A fan is making a krrrr-krrrr noise. Ramesh (24, tired) is staring at his laptop: "Your employment has been terminated." Ramesh: "Arre yaar..." (He checks his wallet: ₹50).
+
+This sets the tone: The universe is grand, but Ramesh’s life is sad.
+2. The Setup (The Job)
+
+Ramesh is desperate. He meets the Stranger (let's call him Mr. Gupta) at a tea stall.
+
+    Gupta: "I represent a foreign client. They bought an old Kothi in Rajasthan. They need a caretaker for 1 month before they arrive. 50k salary. Cash."
+
+    Ramesh: Takes it immediately.
+
+Arrival: Ramesh reaches the village. It’s vibrant, sunny.
+
+    Gameplay: You explore the village. You buy bread and milk.
+
+    The Weirdness: You tell the Shopkeeper you are staying at the "Raichand Kothi."
+
+    Shopkeeper: Stops smiling. "That place is not for living. The last three watchmen ran away in one night. Go back, son."
+
+    Ramesh: Thinking it's just village superstition, he laughs it off. He needs the money.
+
+3. The House (The Gameplay Loop)
+
+Ramesh reaches the Kothi. It is huge, beautiful, but dead silent.
+
+    Task: Mr. Gupta gave you a list: Turn on the main water valve. Clean the Dust from the Hall. Check the Fuse Box.
+
+    The Atmosphere: During the day, it's just dirty. At night, you hear footsteps upstairs. Lights flicker.
+
+The Storm (Day 3): Ramesh goes to the village. It's a clear, starry night. He walks back to the Kothi gate. As soon as he crosses the boundary wall... BOOM. Thunder. Rain lashes down.
+
+    Observation: He looks back at the gate. Beyond the gate, the village is dry. The storm is only inside the Kothi.
+
+    Task: The wind breaks a window in the Store Room. You have to rush to find wood/hammer to fix it before the rain ruins the expensive carpet (you are afraid of losing your salary).
+
+4. The Discovery (The Rusted Box)
+
+While fixing the window, Ramesh notices a loose floorboard that the rain washed away. Beneath it is a Rusted Iron Box.
+
+He breaks the lock. Inside:
+
+    Old Toys: A wooden horse, some marbles.
+
+    A Letter: Dated 20 years ago. "We have to leave tonight. The villagers are coming. Hide the boy."
+
+    The Picture:
+
+        It shows a man (The Father), a woman (The Mother), and a small boy.
+
+        The Kicker: The "Man" in the photo is wearing a unique locket—a silver tiger claw.
+
+        Ramesh's Inventory: Ramesh opens his inventory. He has that exact same locket around his neck. He has worn it his whole life (he was told he was an orphan found at a railway station).
+
+        Realization: The "Random People" are his parents. The "Boy" is him. This is his house.
+
+5. The Twist (The Villain)
+
+Ramesh runs to the village to confront the Shopkeeper with the photo. The Truth:
+
+    The Raichand family (Ramesh's parents) didn't just "leave." They were killed.
+
+    Who killed them? Not the villagers. It was a Land Mafia plot disguised as a "Witch Hunt."
+
+    Who is Mr. Gupta? He isn't a manager. He works for that same Mafia.
+
+    Why hire Ramesh? The Kothi is "Cursed." The spirits of the parents are violent; they kill anyone who tries to renovate/sell it. The Mafia hired Ramesh (the blood heir) hoping his presence would "calm" the ghosts so they can finally demolish the house and build a hotel. They are using you as a human shield against the ghosts.
+
+6. The Climax (Defend the Home)
+
+Mr. Gupta arrives with bulldozers. He thinks the ghosts are gone because Ramesh survived a week.
+
+    Objective: You are no longer "cleaning" the house for a boss. You are defending your legacy.
+
+    Gameplay: You must trap the bad guys inside the house.
+
+    Mechanic: You use the fuse box to cut lights. You open the "forbidden doors" to let the angry spirits out to scare the thugs. You use the "Storm" to your advantage.
+
+Ending: Ramesh scares Gupta away (or the ghosts take care of him). The storm stops. The sun comes out. Ramesh is still poor (no 50k salary), but he has a massive Haveli. He stands at the gate. The Shopkeeper smiles and waves this time. Cut to Black.
+
+Does this version feel more like a game story to you? It gives you clear gameplay phases:
+
+    Worker Phase: Do chores, earn money.
+
+    Detective Phase: Find the box, match the photo.
+
+    Trap Master Phase: Use the house to scare the bad guys.
+
+till part 3 it seems good now change the part after it i didnt like the murder part and demolish etc make it a bit more mysterious and a bit more longer in story
+
+
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time where a man is shown and he lost his job because of layoffs then he got into some financial issues he tries to get another job but he couldnt then a random guy comes in front of him and asks him he want to take a watchman job at a kothi in rajasthan village and he agrees.... then he goes there and gets tasks like he should roam in the kothi explore a bit about it and turn on the lights etc clean it because after a month some ppl are arriving to live there.... then he explores the village and buys things for the kothi and also talks to ppl in village and tells he is watchman in the kothi and they react very weirdly and say that the kothi is abandoned for years now then why... so he tells that he got laid off then smone very kind offered him the job after seeing his poor condition and asks if he could get a house somewhere to stay.... the shopkeeper asks him to take care of himself and just stops talking.... he comes back to the kothi and a cutscene is shown that there is a storm in the village ( he thinks that the storm is in village but in reality the storm is near kothi only ) kothi's few windows break.... now after the weird storm he fixes the windows and under one window he sees some weird rusted box there and he struggles to open it a bit and after opening box there is a picture in it.... a picture of some random people but not everyone is random
+
+This is a much better direction. Moving away from the "Murder/Mafia" trope makes it psychologically scarier and deeper. Let's focus on Atmosphere, Time Loops, and The Uncanny.
+
+Here is the continuation from Part 3. We keep the mystery of the "Stranger" and the "Owners" central.
+Part 4: The Photo & The Impossible Face
+
+The Scene: Ramesh is holding the rusted box. The storm is raging outside the window (but silence in the village). He looks at the black-and-white photo, dated 1984.
+
+    The Image: It shows a happy family (Husband, Wife, Child) standing in front of the Kothi. Standing next to them, looking polite and young, is a man in a suit.
+
+    The Shock: Ramesh recognizes the man in the suit. It is the same man who hired him at the tea stall yesterday.
+
+    The Mystery: The photo is 40 years old. But the man hasn't aged a single day. Same suit. Same face.
+
+    Ramesh's Thought: "Who did I make a deal with?"
+
+Part 5: The "Guests" Are Not Coming (They Are Already Here)
+
+Gameplay Phase: Ramesh tries to call the Stranger's number. Network Error. He tries to leave the Kothi to ask the villagers, but the "Storm" at the gate is too strong. He is trapped inside.
+
+He decides to finish his tasks, hoping the Stranger comes back so he can demand answers. But the tasks get weirder.
+
+    Task: "Set the dining table for 4 people."
+
+    Task: "Play the record in the main hall."
+
+    Task: "Wind the Grandfather Clock to exactly 8:15 PM."
+
+The Mechanics: As Ramesh completes these tasks, the house starts to change in real-time.
+
+    When he winds the clock, the dust vanishes from the hall.
+
+    When he plays the music, he hears laughter in the next room. When he enters, the room is empty.
+
+    The Realization: He isn't preparing the house for future guests. He is unknowingly recreating the exact moment from the past when the house was abandoned. He is setting the stage for a memory.
+
+Part 6: The Previous Watchman
+
+Exploration: Ramesh explores the servant quarters (where he sleeps). He finds a hidden diary under the bed. It belonged to his father (or a previous watchman).
+
+    The Entry: "The man in the suit... he doesn't blink. He gave me this job. But I can't leave. The village feels miles away. I saw myself in the mirror today, but my reflection didn't move."
+
+The Village Interaction (The "Phone Call"): Ramesh finally finds an old landline in the Kothi that works. He calls the Village Shopkeeper.
+
+    Ramesh: "Kaka, help! The storm won't let me leave! And the man who hired me is in an old photo!"
+
+    Shopkeeper (Confused): "What storm? It is a clear night, beta. And what man? I saw you at the tea stall yesterday... you were talking to an empty chair. I thought you were practicing for a play."
+
+The Twist: The Stranger (the Employer) never existed physically. He is a manifestation of the House or Time ("Samay"). Ramesh walked into the trap willingly.
+Part 7: The "Owners" Arrive
+
+The Climax starts: The month is "over" (in game time). The clock strikes 8:15 PM. The front doors blow open. The "Owners" arrive. But they aren't people. They are Echoes. Shadowy figures playing out a loop.
+
+    The Scene: Ramesh watches as the ghostly family enters. They laugh, they eat the dinner he set, they dance to the music he played.
+
+    The Problem: The loop always ends in tragedy. The Kothi catches fire (the "Storm" was actually the memory of a fire). The family panics. They die. The loop resets.
+
+The Revelation: The "Stranger" (The Entity) appears in the hall.
+
+    Entity: "You have done well, Watchman. You prepared the stage. Now, watch them die again. As they have for 40 years."
+
+    The Goal: The Entity feeds on this tragedy. It hires a Watchman every few decades to clean the stage and ensure the "play" runs smoothly.
+
+Part 8: Breaking the Cycle (The True Gameplay)
+
+Ramesh refuses to let them die. He realizes he can interact with the house during the loop.
+
+Objective: Save the Ghosts.
+
+    Action: The fire starts in the kitchen (historically caused by a gas leak).
+
+    Gameplay: Ramesh rushes to the kitchen in the present to fix the gas pipe that broke in the past.
+
+    Action: The child gets trapped in the bedroom.
+
+    Gameplay: Ramesh uses the axe he bought earlier to break the door down before the fire spreads.
+
+Because Ramesh cleaned the house and fixed the windows earlier (in the gameplay), the "Ghosts" now have a clear path to escape.
+Part 9: The Ending
+
+Ramesh manages to open the main door. The ghostly family runs out of the Kothi, past the boundary, and vanishes into the light. They are finally free. The loop is broken.
+
+The "Stranger" (Entity) screams as the house begins to crumble, its energy source gone. Ramesh runs out just as the Kothi collapses into a pile of actual ruins (what it should have been years ago).
+
+Epilogue: Morning. Ramesh wakes up lying in the grass near the ruins. The Shopkeeper finds him.
+
+    Shopkeeper: "Arre! You slept here all night? I told you it's abandoned!"
+
+    Ramesh: He looks at his hand. He is holding the Rusted Box. He opens it.
+
+    The Change: The photo inside has changed. The family is smiling, but the "Stranger" is gone from the picture. And on the back of the photo, in faded ink, it says: "Thank you, Watchman."
+
+Samay (Voiceover): "Time creates loops. But sometimes... humanity breaks them. Ramesh didn't get his salary. But he got a story no one will believe. Except me."
+
+Does this fit your vision better?
+
+    Mysterious: The employer is a ghost/entity.
+
+    Longer: The gameplay involves solving the mystery of the "Loop" and saving the ghosts.
+
+    No Murder: The tragedy was an accident (fire), not a murder plot.
+
+there is no use of that time camera tho add that too
+
+You are absolutely right. The Time Camera is the perfect mechanic to bridge the gap between "boring cleaning tasks" and "solving the mystery." It gives the player a tool to interact with the supernatural elements actively.
+
+Here is the updated story structure, integrating the Time Camera as the core gameplay mechanic.
+Title Idea: Shutter: The Kothi
+Part 1 & 2: The Setup (Same as before)
+
+    Intro: "Main Samay Hoon" (Funny/Epic).
+
+    Status: Ramesh is broke, takes the job from the mysterious Stranger.
+
+    Arrival: Villagers think he is crazy; he enters the Kothi.
+
+    Initial Gameplay: Basic cleaning. The house is scary but quiet.
+
+Part 3: The Storm & The Box (The Turning Point)
+
+The Storm: The supernatural storm hits. A window breaks. Ramesh finds the Rusted Box under the floorboards.
+
+Inside the Box:
+
+    The Photo: The family with the Stranger (who hasn't aged).
+
+    The Object: An old, heavy Super-8 Video Camera (or a vintage Analog Camera).
+
+        Ramesh picks it up. It looks broken. No battery.
+
+        The Spark: Suddenly, the red "Recording" light blinks on by itself.
+
+        The Mechanic: When Ramesh raises the camera to his eye (Right Click), the viewfinder doesn't show the dusty, ruined room. It shows the room exactly as it was in 1984. Clean, bright, and full of life.
+
+Part 4: The Dual Reality (Core Gameplay)
+
+Now the game opens up. Ramesh realizes the Kothi exists in two states: The Dead Present and The Living Past.
+
+Mechanic 1: Finding Missing Items
+
+    Problem: Ramesh needs a key to open the Master Bedroom. It’s gone in the present.
+
+    Solution: He looks through the Camera.
+
+        In the Camera View: He sees the Father (ghostly echo) walking in 1984. The Father hides the key inside a hollow book on the shelf.
+
+        Action: Ramesh puts the camera down. The book is rotten in the present, but he opens it and finds the rusty key.
+
+Mechanic 2: The "Anomaly" Scares
+
+    Ramesh is walking down a hallway. It feels empty.
+
+    He raises the Camera to check for clues.
+
+    In the Camera View: There is a shadowy figure standing right in front of him, staring into the lens.
+
+    Reaction: He lowers the camera in panic. The hall is empty.
+
+    Lesson: The Camera reveals things that are watching him. He has to use it carefully.
+
+Part 5: The Stranger's Secret
+
+Ramesh tries to leave, but the Storm traps him. He decides to use the Camera to investigate the "Stranger" from the photo.
+
+The Tape Clues: Ramesh finds "glitches" in the house. When he films specific spots (like the fireplace or the garden swing), the Camera plays audio flashbacks.
+
+    Audio: He hears the Stranger talking to the Father in 1984.
+
+    Dialogue: "The contract is simple, Mr. Raichand. You get the wealth, I get the time. But if you leave the house... the deal is void."
+
+    Realization: The Stranger isn't a human. He is a Collector. He makes deals with desperate people (like the Father, and now Ramesh). He traps them in the Kothi to feed on their time.
+
+Part 6: The "Guests" Arrive (The Loop)
+
+The month ends. The "Guests" (the Ghost Family) arrive for the final loop.
+
+The twist with the Camera: Ramesh realizes he can't just watch. He has to change the recording.
+
+    The family is acting out the night of the fire.
+
+    The Puzzle: In the present, the door to the outside is jammed by debris.
+
+    The Solution: Ramesh looks through the Camera. In the past, the door was blocked by a heavy wooden wardrobe placed by the Father (trying to keep the Stranger out).
+
+    Interference: Ramesh cannot move the wardrobe in the past. But he sees that the wardrobe has a weak leg.
+
+    Action: In the Present, he finds the rotted remains of that wardrobe. He smashes the spot where the leg used to be.
+
+    The Ripple Effect: Because time is overlapping in the Kothi, smashing the debris in the present causes the wardrobe in the past to collapse in the Camera view.
+
+Part 7: The Climax (Filming the Truth)
+
+The fire starts (The Loop). The Stranger appears, laughing, waiting for them to die again.
+
+The Final Boss Fight: The Stranger is invisible in the real world. He can only be seen through the Camera.
+
+    Gameplay: Ramesh has to navigate the burning house.
+
+    Combat: He must point the Camera at the Stranger. The "Flash" of the camera stuns the entity (Light reveals truth).
+
+    Objective: Ramesh must guide the confused Ghost Family to the exit.
+
+        He uses the Camera to show them the "Safe Path" (overlaying the safe past over the burning present).
+
+        He shouts: "Follow the light! Not the heat!"
+
+Part 8: The Ending
+
+The Escape: The family runs out. The Stranger tries to grab Ramesh. Ramesh throws the Camera into the heart of the spectral fire. BOOM. The link is broken. The Camera melts. The Stranger dissolves into smoke, screaming that his collection is ruined.
+
+The Morning After: Ramesh wakes up in the ruins. The storm is gone. He walks to the village. The Shopkeeper sees him.
+
+    Shopkeeper: "You... you survived? No one survives the Raichand Kothi."
+
+    Ramesh: He reaches into his pocket. He finds the Photo.
+
+        The Stranger is gone from the picture.
+
+        The Father in the picture is now holding the Camera.
+
+    The Reward: Ramesh checks his phone. A notification pops up.
+
+        Bank Alert: ₹5,00,000 credited.
+
+        Sender: "Raichand Trust (1984)."
+
+        Note: "Severance Pay. Good luck, Ramesh."
+
+Samay (Voiceover): "Time is a camera, my friends. Sometimes you just need to change the lens to see the truth. Ramesh didn't get the job... but he gave them peace. Chal, now let's see what happens to this other guy in Mumbai..." (Boom emoji sound).
+
+Does this integrate the camera better?
+
+    Exploration Tool: See the past version of the room.
+
+    Puzzle Tool: Find items hidden in the past to use in the present.
+
+    horror Tool: See ghosts that are invisible to the naked eye.
+
+    Weapon: Use the flash/lens to disrupt the villain.
+
+this story seemed pretty good now make use of all the things like real use not just because u have to use it duh
+
+
+
+This is a much better direction. Moving away from the "Murder/Mafia" trope makes it psychologically scarier and deeper. Let's focus on Atmosphere, Time Loops, and The Uncanny.
+
+Here is the continuation from Part 3. We keep the mystery of the "Stranger" and the "Owners" central.
+
+Part 4: The Photo & The Impossible Face
+
+The Scene:
+
+Ramesh is holding the rusted box. The storm is raging outside the window (but silence in the village). He looks at the black-and-white photo, dated 1984.
+
+The Image: It shows a happy family (Husband, Wife, Child) standing in front of the Kothi. Standing next to them, looking polite and young, is a man in a suit.
+
+The Shock: Ramesh recognizes the man in the suit. It is the same man who hired him at the tea stall yesterday.
+
+The Mystery: The photo is 40 years old. But the man hasn't aged a single day. Same suit. Same face.
+
+Ramesh's Thought: "Who did I make a deal with?"
+
+Part 5: The "Guests" Are Not Coming (They Are Already Here)
+
+Gameplay Phase:
+
+Ramesh tries to call the Stranger's number. Network Error. He tries to leave the Kothi to ask the villagers, but the "Storm" at the gate is too strong. He is trapped inside.
+
+He decides to finish his tasks, hoping the Stranger comes back so he can demand answers. But the tasks get weirder.
+
+Task: "Set the dining table for 4 people."
+
+Task: "Play the record in the main hall."
+
+Task: "Wind the Grandfather Clock to exactly 8:15 PM."
+
+The Mechanics:
+
+As Ramesh completes these tasks, the house starts to change in real-time.
+
+When he winds the clock, the dust vanishes from the hall.
+
+When he plays the music, he hears laughter in the next room. When he enters, the room is empty.
+
+The Realization: He isn't preparing the house for future guests. He is unknowingly recreating the exact moment from the past when the house was abandoned. He is setting the stage for a memory.
+
+Part 6: The Previous Watchman
+
+Exploration:
+
+Ramesh explores the servant quarters (where he sleeps). He finds a hidden diary under the bed. It belonged to his father (or a previous watchman).
+
+The Entry: "The man in the suit... he doesn't blink. He gave me this job. But I can't leave. The village feels miles away. I saw myself in the mirror today, but my reflection didn't move."
+
+The Village Interaction (The "Phone Call"):
+
+Ramesh finally finds an old landline in the Kothi that works. He calls the Village Shopkeeper.
+
+Ramesh: "Kaka, help! The storm won't let me leave! And the man who hired me is in an old photo!"
+
+Shopkeeper (Confused): "What storm? It is a clear night, beta. And what man? I saw you at the tea stall yesterday... you were talking to an empty chair. I thought you were practicing for a play."
+
+The Twist: The Stranger (the Employer) never existed physically. He is a manifestation of the House or Time ("Samay"). Ramesh walked into the trap willingly.
+
+Part 7: The "Owners" Arrive
+
+The Climax starts:
+
+The month is "over" (in game time). The clock strikes 8:15 PM.
+
+The front doors blow open. The "Owners" arrive.
+
+But they aren't people. They are Echoes. Shadowy figures playing out a loop.
+
+The Scene: Ramesh watches as the ghostly family enters. They laugh, they eat the dinner he set, they dance to the music he played.
+
+The Problem: The loop always ends in tragedy. The Kothi catches fire (the "Storm" was actually the memory of a fire). The family panics. They die. The loop resets.
+
+The Revelation:
+
+The "Stranger" (The Entity) appears in the hall.
+
+Entity: "You have done well, Watchman. You prepared the stage. Now, watch them die again. As they have for 40 years."
+
+The Goal: The Entity feeds on this tragedy. It hires a Watchman every few decades to clean the stage and ensure the "play" runs smoothly.
+
+Part 8: Breaking the Cycle (The True Gameplay)
+
+Ramesh refuses to let them die. He realizes he can interact with the house during the loop.
+
+Objective: Save the Ghosts.
+
+Action: The fire starts in the kitchen (historically caused by a gas leak).
+
+Gameplay: Ramesh rushes to the kitchen in the present to fix the gas pipe that broke in the past.
+
+Action: The child gets trapped in the bedroom.
+
+Gameplay: Ramesh uses the axe he bought earlier to break the door down before the fire spreads.
+
+Because Ramesh cleaned the house and fixed the windows earlier (in the gameplay), the "Ghosts" now have a clear path to escape.
+
+Part 9: The Ending
+
+Ramesh manages to open the main door. The ghostly family runs out of the Kothi, past the boundary, and vanishes into the light. They are finally free. The loop is broken.
+
+The "Stranger" (Entity) screams as the house begins to crumble, its energy source gone.
+
+Ramesh runs out just as the Kothi collapses into a pile of actual ruins (what it should have been years ago).
+
+Epilogue:
+
+Morning. Ramesh wakes up lying in the grass near the ruins.
+
+The Shopkeeper finds him.
+
+Shopkeeper: "Arre! You slept here all night? I told you it's abandoned!"
+
+Ramesh: He looks at his hand. He is holding the Rusted Box. He opens it.
+
+The Change: The photo inside has changed. The family is smiling, but the "Stranger" is gone from the picture. And on the back of the photo, in faded ink, it says: "Thank you, Watchman."
+
+Samay (Voiceover): "Time creates loops. But sometimes... humanity breaks them. Ramesh didn't get his salary. But he got a story no one will believe. Except me."
+
+Does this fit your vision better?
+
+Mysterious: The employer is a ghost/entity.
+
+Longer: The gameplay involves solving the mystery of the "Loop" and saving the ghosts.
+
+No Murder: The tragedy was an accident (fire), not a murder plot.
+
+This is the definitive version. Here, every mechanic (Cleaning, The Camera, The Shopping, The Storm) is essential to the plot. You cannot finish the story without the mechanics, and the mechanics don’t make sense without the story.
+
+Title: The Kothi: A Loop in Time
+Phase 1: The Setup (The Bait)
+
+    Cutscene: "Main Samay Hoon" intro (Funny/Epic). Fast forward to Ramesh, broke and desperate.
+
+    The Deal: The Stranger hires him. "Prepare the house. The guests arrive in 7 days."
+
+    Gameplay - The Village:
+
+        Mechanic: You have limited money (₹500). You visit the Shopkeeper.
+
+        Choice: Do you buy Food (Stamina), a Flashlight (Vision), or an Axe (Tool)?
+
+        Real Use: If you don’t buy the Axe now, you will struggle in the climax. The game doesn't tell you this yet.
+
+    The Warning: The Shopkeeper interaction occurs here. "You were talking to an empty chair." Ramesh ignores it.
+
+Phase 2: The Synchronization (The Trap)
+
+Ramesh enters the Kothi. The Storm hits, sealing the exit.
+
+    Discovery: He finds the Rusted Box. Inside is the Super-8 Camera and the Photo.
+
+    The Core Gameplay Loop (The "Tasks"): The Stranger left a note: "Make it look like they never left."
+
+    Task 1: The Dining Table
+
+        Objective: Set the table for dinner.
+
+        Problem: You don't know where the plates go.
+
+        Mechanic (Real Use of Camera): You look through the Camera. You see the Ghost of the Mother in 1984 setting the table. You have to memorize her placement (Plate, Fork, Napkin) and replicate it exactly in the Present.
+
+        The Horror: As you place the fork, the Camera reveals the Stranger standing in the corner of the room in 1984, smiling at you.
+
+    Task 2: The Grandfather Clock
+
+        Objective: Wind the clock to 8:15.
+
+        Mechanic: The key is missing.
+
+        Real Use of Camera: In the Camera view, the Father hides the key in a flower pot to keep it away from the "Bad Man" (The Stranger). You dig in that pot in the present to find the key.
+
+    Why this matters: You aren't just doing chores. You are physically aligning the Present Kothi with the Past Kothi. You are tuning the frequency for the haunting.
+
+Phase 3: The Revelation (The Glitch)
+
+As Ramesh finishes the tasks, the house gets "too clean."
+
+    The Phone Call: He calls the Shopkeeper. "There is no storm."
+
+    The Diary: He finds the previous watchman’s diary. "I fixed the window, and then I saw him. The man in the suit. He isn't real. He is the House."
+
+The Twist: Ramesh realizes the Stranger isn't a person. He is an Entity.
+
+    The Entity cannot interact with the physical world directly. It needs a living human (Ramesh) to move objects, fix wires, and open doors so the "Ghost Loop" can play out physically.
+
+    Ramesh is the stagehand for a tragedy.
+
+Phase 4: The Loop Begins (The Climax)
+
+Time: 8:15 PM. The "Guests" (The Ghost Family) arrive. The Entity appears (visible only through the Camera).
+
+    Entity: "Perfect. The stage is set. Let the fire burn."
+
+The Incident: The Ghost Mother goes to the kitchen. She turns on the stove.
+
+    In 1984: The gas pipe was old and leaked. BOOM. Fire.
+
+    In Present: The Entity manifests the memory of fire. The heat is real. Ramesh takes damage.
+
+Objective: Save the Ghosts Ramesh must run through the burning house to "change the past" by altering the present.
+
+Puzzle 1: The Kitchen (The Gas)
+
+    The Problem: The Ghost Mother is about to strike the match.
+
+    Real Use of Mechanics: Ramesh rushes to the kitchen. He sees the rusted pipe in the present. He uses the Wrench (found during exploration) to tighten the valve in the present.
+
+    Effect: In the Camera view (Past), the gas leak stops. The Mother strikes the match... no explosion. She is confused but alive.
+
+Puzzle 2: The Locked Bedroom (The Child)
+
+    The Problem: The Ghost Child is trapped. The door is jammed by fallen debris in the present.
+
+    Real Use of Mechanics: Remember the Axe you bought/found in Phase 1?
+
+        If you have it: You smash the door down.
+
+        If you don't: You have to find a heavy object to throw (harder/slower).
+
+    Effect: You break the door. The Ghost Child runs out.
+
+Puzzle 3: The Escape (The Window)
+
+    The Problem: The family tries to run to the front door, but the Entity blocks it.
+
+    Real Use of Mechanics: Remember the window you fixed in the beginning (The "Tutorial" task)?
+
+    Ramesh shouts (in game): "This way!"
+
+    He uses the Camera Flash (Right Click) to stun the Entity for 3 seconds.
+
+    He guides the ghosts to the fixed window. Because you fixed it in Phase 1, it opens easily now.
+
+Phase 5: The Ending
+
+The Resolution: The family climbs out of the window. They cross the boundary of the Kothi.
+
+    As soon as they cross, they fade into white light. They are free from the loop.
+
+    The Entity shrieks. Without the tragedy, it has no food. It implodes.
+
+The Collapse: The house begins to crumble (Time catching up). Ramesh jumps out of the window just as the roof collapses.
+
+Epilogue: Morning. Ramesh is alive. The Kothi is a pile of rubble. He checks his pocket.
+
+    The Photo: The Stranger is gone. The family is smiling.
+
+    The Wallet: He checks his balance.
+
+        Notification: "Payment Failed: Employer Unknown."
+
+        Ramesh sighs. "Of course."
+
+        He starts walking away, kicking a stone.
+
+        Clink.
+
+        The stone hits something. He looks down. It's the Gold Watch from the Grandfather Clock (Task 2).
+
+        Ramesh picks it up. It's heavy. Solid gold. Worth easily 10 Lakhs.
+
+        He smiles. "Severance package."
+
+Samay (Voiceover): "And that is how Ramesh lost a job... but fixed a timeline. The Kothi is gone, but the story remains. Now... let's check on that guy who is trying to make a game about this..." (Wink/Boom Emoji).
+
+keep it slow let people explore it all
+
+This is a sophisticated choice. Slow-burn horror/mystery is much more effective because it builds dread instead of just cheap jump scares. By slowing it down, we let the player live in the isolation.
+
+We will shift the genre from "Action-Adventure" to "Atmospheric Simulation / Detective Mystery."
+
+Here is the revised, slower-paced progression where the player peels back the layers of the Kothi day by day.
+Core Design Philosophy: "The Daily Grind"
+
+The game is divided into Days. You have a routine. The horror creeps in because the routine starts to break.
+
+    Morning: Wake up, go to village, buy supplies (food/batteries), talk to villagers (Lore).
+
+    Afternoon: Complete renovation tasks (Cleaning, Painting, Fixing).
+
+    Evening: Exploration & "The Anomalies" (The horror elements).
+
+    Night: Sleep (or try to).
+
+Phase 1: The Mundane (Days 1–5)
+
+Goal: Establish normality. Make the player care about the job.
+
+    The Intro: "Main Samay Hoon" (Humor). Ramesh arrives.
+
+    Gameplay:
+
+        You are just a watchman. You clean dust. You throw away trash.
+
+        You realize the Kothi is massive and beautiful, but sad.
+
+        Exploration: You find normal things. Old bills, clothes in the wardrobe, a child’s drawing of a dog.
+
+        The Hook: You have a "To-Do List" from the Stranger. It’s very specific.
+
+            "Do not open the Red Door in the hallway."
+
+            "Ensure the Master Bedroom curtains are always drawn by 6 PM."
+
+        Subtle Horror: You put a book on a shelf. Next morning, it’s on the floor. You think it's a physics bug or rats.
+
+Phase 2: The Discovery (Days 6–12)
+
+Goal: Introduce the Camera as a tool for work, not war.
+
+    The Event: You need to document your cleaning progress to get paid. You find the Super-8 Camera in the study. You fix it up.
+
+    The Mechanic: You look through the viewfinder to take a picture of the clean room.
+
+    The scare: Through the lens, the room isn't empty. You see a shadowy figure sitting in the armchair reading a newspaper. You lower the camera. The chair is empty.
+
+    Exploration: You start walking around with the camera up.
+
+        The Audio: The camera picks up "EVP" (Electronic Voice Phenomena). You hear conversations from 1984.
+
+        Voice of Mother: "Did you hear that noise upstairs?"
+
+        Voice of Father: "It's just the house settling, dear."
+
+        The Player's Role: You aren't fighting. You are eavesdropping on the past. You start piecing together who these people were. You learn to love the family.
+
+Phase 3: The Isolation (Days 13–20)
+
+Goal: The Village cuts you off. The Entity watches.
+
+    The Shift: You go to the village. The Shopkeeper refuses to sell you batteries. He looks terrified. "You smell like smoke," he says (even though there is no fire).
+
+    The Storm: The storm begins at the gate. You are trapped.
+
+    The "Stranger" Entity: You see him in the Camera view. He isn't attacking. He is just... watching. Standing in corners. Standing by your bed while you sleep (you see this when you review your own footage).
+
+    The Mystery: You find the Locked Diary of the Father.
+
+        To open it, you need a code.
+
+        Puzzle: You have to use the Camera to look at the calendar on the wall in 1984 to get the date of the son's birthday.
+
+        Lore: The diary reveals the Father made a "Deal" for wealth, but the price was that he can never leave.
+
+Phase 4: The Preparation (Days 21–28)
+
+Goal: The Loop becomes clear. You stop working for the Stranger and start working for the Ghosts.
+
+    The Realization: You see the "Ghosts" repeating the same day. They are preparing for a party. The party that ends in fire.
+
+    The Interaction: You realize you can help them.
+
+        Example: In the ghostly loop, the Mother cries because she lost her necklace.
+
+        Task: You spend 2 real-time days searching the garden with a metal shovel. You find the necklace in the mud.
+
+        Placement: You place the dirty necklace on her dresser in the Present.
+
+        Payoff: In the Camera view, the Ghost Mother finds it. She smiles. The atmosphere of the house becomes lighter. The scary music stops for a moment.
+
+    The Bond: You are befriending ghosts who don't know you exist. You are fixing their small regrets before their final moment.
+
+Phase 5: The Night of the Fire (Day 30)
+
+Goal: A tragic, slow puzzle. No boss fight. Just saving a memory.
+
+    The Scene: The Stranger/Entity waits. The "Fire" event begins.
+
+    Gameplay: It’s not an action run. It’s a precise execution of a plan you built over 30 days.
+
+        You calmly walk to the kitchen and tighten the gas valve you oiled yesterday.
+
+        You walk to the hallway and unlock the door you found the key for last week.
+
+        You place the Family Photo (the one from the box) on the table by the exit.
+
+    The Climax: The fire tries to start, but fails (because of the gas valve). The Entity is confused.
+
+    The Departure: The Ghost Family sees the open door. They see the photo. They realize they are dead, and they realize they are free.
+
+    They walk out. They pause to look at Ramesh (or the spot where he stands). They fade away.
+
+Why this "Slow" version is better:
+
+    Exploration Incentives: The player wants to explore every drawer and corner because they need to find items (Necklace, Keys, Toys) to help the ghosts, not just to beat the game.
+
+    Environmental Storytelling: The story isn't told through cutscenes. It's told by finding a half-written letter in the trash, or seeing the height-marks of the child growing on the doorframe.
+
+    The "Samay" Logic: It fits the "Main Samay Hoon" theme perfectly. You are simply spending time in a place where time is broken.
+
+    Emotional Impact: When the family finally leaves, it feels earned. You spent 30 game-days living with them. You miss them when they are gone.
+
+Does this pacing feel right? It moves from "Job Simulator" → "Ghost Hunting" → "Tragedy Prevention."
+
+reading diarys of past watchmans was also a good part
+
+You are absolutely right. The diaries are the perfect vehicle for a slow-burn mystery. They allow you to tell the story of the house without needing expensive cutscenes or constant dialogue.
+
+In this "Slow Exploration" version, the Diaries act as your Guide, your Warning, and your Horror.
+
+Here is how we integrate the "Legacy of Watchmen" into the gameplay loop.
+The Mechanic: The Hidden Archive
+
+You aren't the first to take this job. There have been 3 major Watchmen before you over the last 40 years. They all left their notes, hidden in places the "Entity" wouldn't look.
+
+Gameplay Loop:
+
+    You find a Diary Page hidden in the environment (e.g., taped under a drawer, stuffed inside a hollow curtain rod).
+
+    The page contains a Clue or a Warning.
+
+    You must follow the clue to unlock a new area or avoid a death trap.
+
+Watchman #1: "The Skeptic" (1995)
+
+Written on crumpled cigarette packets and cheap notepad paper.
+
+    Tone: Angry, dismissive, just wants the money.
+
+    Where you find them: In the Servant Quarters, Kitchen, and Smoking Area.
+
+Entry #4 (Found Day 2):
+
+    "This Mr. Gupta is a fraud. He says 'don't go into the library at night.' I went in there. Nothing happened. Just a cold draft. Easy money. I’m going to sleep."
+
+Entry #9 (Found Day 5 - The Warning):
+
+    "Okay, something is wrong. My cigarettes are moving. I left the pack on the table, found it in the sink. And the cold draft in the library? It whispers now. It sounds like... my name."
+
+Gameplay Impact: This tells the player: The Library is active at night. Go there if you want to find something, but be careful.
+Watchman #2: "The Architect" (2010)
+
+Written neatly in a ledger book, hidden behind bookshelves and under floorboards.
+
+    Tone: Obsessive, analytical. He tried to map the "Ghost Loop."
+
+    Where you find them: Study, Hallway, Fuse Box.
+
+Entry #12 (Found Day 10):
+
+    "The house breathes. I’ve timed it. Every day at 6:00 PM, the hallway lights flicker. It’s not the wiring. It’s the energy shifting. I think the house is trying to remember something."
+
+Entry #20 (Found Day 15 - The Puzzle Clue):
+
+    "I found a safe behind the painting in the East Wing. I couldn't open it. But I saw the Ghost Child pointing at the Piano. Maybe the combination is a tune?"
+
+Gameplay Impact: This gives the player a specific puzzle. You have to go to the Piano, find the sheet music the child liked, and play it to open the safe.
+Watchman #3: "The Father" (1984 - The First Watchman)
+
+These aren't in a book. These are desperate notes scratched into walls, hidden in the Rusted Box, or tucked inside the Camera case.
+
+    Tone: Terrified, protective. He knows the truth.
+
+    Where you find them: Deep hidden areas (Attic, Basement, inside the Rusted Box).
+
+Entry (Found inside the Camera Battery slot):
+
+    "Don't trust the eyes. Trust the lens. He (The Stranger) cannot be seen by the naked eye. He stands in the corner. He feeds on the fear. Use the camera. It burns him."
+
+The Final Note (Found Day 29):
+
+    "I failed. The fire is starting. I can't stop it. But I can hide the key. If anyone finds this... please. The gas valve in the kitchen. It was never an accident. Turn it off."
+
+How this enhances the "Slow Exploration"
+
+1. The "Don't Do It" Moment:
+
+    You find a note from Watchman #1: "I looked into the mirror in the guest room for too long. My reflection stopped blinking. Don't look."
+
+    The Horror: Now, you have to clean the guest room. There is a huge mirror there. You, the player, will naturally avoid looking at it. The diary created fear without a jumpscare.
+
+2. The Treasure Hunt:
+
+    Watchman #2 writes: "I hid the Master Key in the 'belly of the beast'."
+
+    You have to figure out what that means. (Solution: It's inside the furnace in the basement). This forces you to explore the scary basement.
+
+3. The Environmental Storytelling:
+
+    You enter a room and see a chair barricading the door.
+
+    You find a note on the floor: "He is coming. I locked it. God help me."
+
+    You realize you are standing in the exact spot where a previous watchman died (or vanished). It makes the space feel haunted by history, not just ghosts.
+
+Revised Narrative Progression with Diaries
+
+    Days 1-5: You find the Skeptic's notes. They are funny. You laugh at him. "Haha, this guy was scared of the wind."
+
+    Days 6-15: You find the Architect's notes. You start using his tips to solve puzzles. You realize he was smart, and yet... he disappeared. "If he couldn't survive, can I?"
+
+    Days 16-25: You unlock the Camera and start finding The Father's notes. The tone shifts from mystery to tragedy. You realize the house is a trap.
+
+    Day 30: You use the combined knowledge of all three watchmen to break the loop.
+
+        You use the Skeptic's courage.
+
+        You use the Architect's map/puzzles.
+
+        You use the Father's heart/camera.
+
+Does this addition of the "Three Watchmen" voices feel like the right layer of depth for you?
+
+now give total complete script of the story complete long
+
+Here is the complete, detailed game script for "The Kothi (Wirasat)". It is structured to guide the player through the slow-burn mystery, integrating the mechanics, the diaries, and the emotional story arc.
+GAME TITLE: THE KOTHI (WIRASAT)
+PROLOGUE: THE COSMIC JOKE
+
+VISUAL: Pitch black screen. AUDIO: A deep, booming, authoritative voice (reminiscent of the old Mahabharat TV show).
+
+SAMAY (V.O.): "Main Samay Hoon..." (I am Time). "I have witnessed the birth of stars. I have seen the silence before the Big Bang." (Sound of a massive explosion. Fast montage: Dinosaurs roaring, The Pyramids being built, The Kurukshetra War, The British leaving India via train). "I have seen Empires rise from dust and return to dust. I hold the wisdom of the ages..."
+
+(Sound of a Record Scratch. Silence.) VISUAL: Cut to a messy, dim 1RK apartment in Mumbai/Pune. A ceiling fan wobbles noisily (Krrr-krrr). RAMESH (26) sits in his underwear, staring at a laptop screen. He is scraping the bottom of a Maggi cup. Screen Text: “Dear Candidate, regarding your application... No.”
+
+SAMAY (V.O.) (Sarcastic tone): "And then... there is Ramesh. Bank Balance: ₹412. Future Prospects: Zero. Ambition: To pay rent before the landlord kicks him out."
+
+CUT TO: EXT. TEA STALL - DAY Ramesh is depressed. A sleek black car pulls up. A man in a sharp suit (THE STRANGER) steps out. He doesn’t blink. He sits opposite Ramesh.
+
+STRANGER: "You look like a man who needs an opportunity."
+
+RAMESH: "I need a job, sir. Any job."
+
+STRANGER: "My clients have purchased the old Raichand Kothi in Rajasthan. It has been empty for 40 years. We need a caretaker for one month to clean it before the renovation crew arrives. Payment: ₹50,000 cash."
+
+RAMESH: "Done. When do I start?"
+ACT 1: THE ARRIVAL (DAYS 1-5)
+
+Objective: Establish the Atmosphere & The Mundane Routine.
+
+EXT. VILLAGE - DAY Ramesh arrives. The village is colorful but quiet. GAMEPLAY: Ramesh walks to the General Store. SHOPKEEPER (KAKA): "New to the village, son?" RAMESH: "Yes, Kaka. I’m the new watchman for the Raichand Kothi." (The bustling shop goes silent. Villagers stare.) KAKA: "Go back. The last three didn't last a week. That house... it doesn't want to be cleaned." RAMESH: "I need the money, Kaka. Just give me bread and milk."
+
+EXT. THE KOTHI - EVENING Ramesh approaches the gate. The Kothi is massive, beautiful, but covered in vines and dust. SAMAY (V.O.): "The gates open. The trap shuts. But he thinks it's just a rusty hinge."
+
+INT. KOTHI - NIGHT GAMEPLAY LOOP (THE ROUTINE):
+
+    Task: Pick up trash. Dust the furniture.
+
+    Mechanic: The house is huge. You have a flashlight (battery drains). You must sleep to save the game.
+
+EXPLORATION (DIARY #1 FOUND): Under a broken chair in the smoking area, Ramesh finds a crumpled note. Text (Bunty, Watchman, 1995): "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably."
+
+RAMESH: "Heh. Amateur."
+ACT 2: THE STORM & THE CAMERA (DAYS 6-12)
+
+Objective: The supernatural elements begin.
+
+EXT. KOTHI - NIGHT Ramesh tries to go to the village. A violent, purple-hued storm rages at the gate. RAMESH: "Kaka will be closed in this weather." He steps back. He looks through the gate. The village is dry. The moon is shining there. The storm is only inside the boundary.
+
+INT. STORE ROOM The wind breaks a window. Ramesh rushes to fix it. Under the wet floorboards, he finds the RUSTED BOX. Contents:
+
+    A Black & White Photo (1984): A Couple, a Child, and The Stranger. The Stranger looks exactly the same as he did yesterday.
+
+    A Super-8 Video Camera: It looks broken, but the red light blinks.
+
+GAMEPLAY MECHANIC UNLOCKED: Ramesh raises the Camera. Viewfinder: The room is not dusty. It is golden, warm, and new. It is 1984.
+
+THE SCARE: Ramesh pans the camera to the corner. In the viewfinder, The Stranger is standing there, staring directly at the lens. Ramesh lowers the camera in panic. The corner is empty.
+
+EXPLORATION (DIARY #2 FOUND): Hidden inside a hollow book in the Library. Text (Professor Rao, Watchman/Architect, 2010): "The Entity is not a ghost. It is a parasite. It feeds on the repetition of tragedy. I call him The Collector. He cannot be seen with eyes, only through a lens. I have started mapping the anomalies. The house remembers."
+ACT 3: THE ANOMALIES (DAYS 13-20)
+
+Objective: Use the Camera to solve puzzles and learn the truth.
+
+RAMESH'S GOAL: The Stranger calls the landline (which shouldn't work). STRANGER (Phone): "The guests are coming, Ramesh. Prepare the dinner table."
+
+PUZZLE 1: THE DINING ROOM
+
+    Task: Set the table.
+
+    Problem: You don't know the arrangement.
+
+    Solution: Use the Camera. Look at the past. You see the Ghost Mother placing plates.
+
+    Audio (Through Camera):
+
+        Mother: "Anand, are you sure about this deal?"
+
+        Father: "We need the money, Sunita. The man said he just wants the deed signed. We leave tomorrow."
+
+    Ramesh's Thought: "My God... they didn't know they were never leaving."
+
+EXPLORATION (DIARY #3 FOUND): Scratched into the wall of the attic. Text (The First Watchman, 1984): "I am not a watchman. I am the father. I hid the boy. I hid Ramesh in the truck. If you are reading this... the gas pipe. The fire wasn't an accident. He (The Stranger) loosened the valve. I tried to fix it but he broke my leg. Save us."
+
+RAMESH: "Ramesh... he hid... me?" (Ramesh pulls out the locket he wears. He looks at the Photo in the box. The father is wearing the same locket.)
+ACT 4: THE PREPARATION (DAYS 21-29)
+
+Objective: Alter the house in the Present to save the Past.
+
+RAMESH: "I'm not cleaning this house for him. I'm cleaning it for them."
+
+GAMEPLAY LOOP (THE FIX): Ramesh ignores the Stranger's orders. He follows the Father's Diary clues.
+
+    The Kitchen:
+
+        Ramesh finds the gas pipe. It is rusted solid.
+
+        He needs a Heavy Wrench.
+
+        Retrieval: He has to backtrack to the garden shed (scary area) to find the wrench.
+
+        Action: He oils and tightens the valve in the Present.
+
+    The Escape Route:
+
+        The Front Door is jammed by a fallen chandelier in the Present.
+
+        Action: Ramesh spends 3 in-game days chopping the debris with the Axe (purchased in Act 1).
+
+        Result: The path is clear.
+
+    The Key:
+
+        The Bedroom door was locked in 1984, trapping the child.
+
+        Camera View: The Father threw the key into the Aquarium in panic.
+
+        Action: Ramesh breaks the dried-up, dirty aquarium in the present. He finds the key. He unlocks the door.
+
+SAMAY (V.O.): "The stage is set. The actors are ready. But the script... has been rewritten."
+ACT 5: THE NIGHT OF THE FIRE (DAY 30)
+
+Objective: The Final Loop.
+
+TIME: 8:15 PM. The Storm stops. The silence is deafening. The Ghost Family manifests. They are glowing faint blue. The Stranger (Entity) manifests. He is a towering shadow of static.
+
+ENTITY: "Begin the play! Burn!"
+
+THE CLIMAX (No Combat, Pure Tension):
+
+    The Kitchen: The Mother walks to the stove. She strikes a match.
+
+        Anticipation: The Entity smiles, waiting for the boom.
+
+        Result: The flame lights. No explosion. The gas valve is tight (because Ramesh fixed it). The Mother looks confused but calm.
+
+    The Bedroom: The Child wakes up, smelling smoke (phantom smell). He runs to the door.
+
+        Result: The door is unlocked. He runs out.
+
+    The Hallway: The Entity realizes the loop is broken. He screams (digital screeching). The house begins to shake.
+
+        Action: The Stranger tries to block the exit. He is invisible to the ghosts.
+
+        Ramesh's Move: Ramesh raises the Camera.
+
+        Mechanic: He holds Right Click to charge the flash. FLASH!
+
+        The light stuns the Entity, revealing him to the Ghosts.
+
+        Ramesh Shouts: "RUN! OUT THE DOOR! GO!"
+
+THE ESCAPE: The Father sees the open door. He grabs the Mother and Child. They run. They cross the threshold of the Kothi. VISUAL: As they cross the gate, they turn into bright balls of light and shoot up into the sky.
+
+THE COLLAPSE: The Entity, starving and defeated, implodes. The Kothi, held together only by the time loop, begins to crumble rapidly. Ramesh sprints. The roof is falling. He dives through the window.
+EPILOGUE: THE MORNING AFTER
+
+EXT. RUINS - DAY Birds are chirping. The Kothi is a pile of ancient stones. Ramesh is lying in the grass, covered in dust, alive.
+
+KAKA (Shopkeeper): "Oh my god! Boy! I saw the collapse! I thought you were dead!"
+
+RAMESH: (Coughs) "I... I finished the job, Kaka. The house is clean."
+
+KAKA: "Clean? It's gone!"
+
+Ramesh reaches into his pocket. He pulls out the Rusted Box. He opens it. The Photo: The Stranger is gone. The Father, Mother, and Baby are standing there. They are smiling. The Father is holding a sign in the photo: "Live, Son."
+
+RAMESH: He checks his phone. Notification: Payment Failed. Employer not found.
+
+Ramesh laughs. A tired, happy laugh. He stands up and dusts off his pants. He feels something heavy in his other pocket. He pulls it out. It is the Solid Gold Pocket Watch from the Ghost Father's vest.
+
+RAMESH: "Severance package."
+
+VISUAL: Camera pans up from Ramesh walking away, up to the blue sky, then to the stars.
+
+SAMAY (V.O.): "Time creates circles. Humans create lines. And sometimes... just sometimes... a janitor becomes a savior. Ramesh didn't get his 50,000 rupees. But he got a future."
+
+(Boom Emoji Sound Effect) SAMAY: "Okay, cut. Who's next? Ah... a software engineer in Bangalore? Boring. Next!"
+
+FADE TO BLACK.
+
+THE END.
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time - a messy 1rk apt in mumbai.... ceiling fan wobbling krrr krrr... aryan a civil engineer at a firm sitting on his table scraping the bottom of maggi cup and staring at the laptop screen and suddenly an email pops up - "You Are Fired!" it wasnt astonishing for him because he knew this will happen one day because of layoffs going on but he wasn't ready for this financial he checks his wallet - 412rs in it, he has to pay the rent to landlord, groceries, and what not... so he starts applying for other jobs but he couldnt get any one day after getting rejected he comes out of the office to drink tea at a tea stall while he sits and waits for his order to come a RR arrives and a man in black suit gets out of it and approaches the guy - he doesn't blink and asks him to bring the tea by seeing such a wealthy guy he does what he was commanded to after he brings the tea and serves him, the stranger laughs and says you look like "a man who needs an opportunity" aryan says "yes sir i really need a job any job i can do anything please lemme know if you have an opportunity." stranger replies "my clients have recently purchased an old Kothi in Rajasthan, It has been empty for 40 years. we need a caretaker for about a month to clean it before renovation crew arrives and the payment will be 50000rs cash." aryan says "done whed do i start"
+
+stranger replies "that's awesome here is the address of that kothi get there as soon as possible i'll contact you on landline there"
+
+
+
+act 1 - days ( 1-5 )
+
+
+aryan arrives in village it is beautiful,colorful but quiet.
+
+aryan walks to the general store to buy some stuff the shopkeeper kaka asks him if he is new to the village aryan replies yes kaka im the new watchman at the kothi no. 17. kaka doesnt say anything and stares silently and gets into his work afterwards it was like he wanted to say smtg but smone was stopping him aryan gets to buy some stuff but he had limited money and there is an axe in the store too ( which he'll need later but he doesn't know ) he has only 412rs rn and the stranger will give the money later so he'll have to make choice what things to buy.... now after shopping he leaves the place and approaches the kothi it was almost evening and he looks at the kothi it is massive beautiful but it is covered in vines and dust so much
+
+now he has to do some tasks like picking up the trash dust the furnitures... he founds a flashlight in the house too low battery in it....
+
+
+he finds a note under a broken chair in the smoking area by a previous watchman **Text (Bunty, Watchman, 1995):** "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably."
+
+**Aryan:** "Heh. Amateur."
+
+
+ACT 2 days ( 6-12 )
+
+
+it was a rainy night so aryan slept inside the haveli and the next day when h goes to the village and says to the shopkeeper kaka it rained so much yesterday and he says what do you mean it rained so much yesterday it is month of may it doesnt rain in may and in rajasthan definitely not kaka takes it as satire and leaves it then he gets his stuff from the store goes back to the haveli does his work but tonight at the haveli it wasnt just raining but storm too but when aryan looked outside in the village it was all dry no storm not even a single drop of rain nothing he gets a bit scared and suddenly a sound comes glass window shattered now he has to fix the windows but while fixing them he sees a mysterious rusted box there he tries to open it but needs a key he doesnt have so he has to find it in the house and after opening he finds a picture in the picture there is a family but with the family one more person is there who looks familiar the stranger but the thing is he looks the same in picture as he looked yesterday he hasnt aged for 40 years or wot?? but along with the photo there is a camera a super-8 video camera it looks broken no batteries inside but it seems to be working the light in it blinks... he raises the camera the room is not dusty anymore it is golden, warm and new. aryan pans the camera on a corner in the viewfinder he sees the stranger is standing there staring directly at the lens as he can see aryan using camera... aryan lowers the camera in panic and the corner is empty there is noone around.
+
+
+act 3 ( find anomalies )
+
+
+use the camera to solve puzzles find anomalies and learn the truth.
+
+
+
+aryan finds "glitches" in the house. When he films specific spots (like the fireplace or the garden swing), the Camera plays audio flashbacks.
+
+He hears the Stranger talking to the Father in 1984.
+
+"The contract is simple, Mr. Raichand. You get the wealth, I get the time. But if you leave the house... the deal is void."*
+
+The Stranger isn't a human. He is a Collector. He makes deals with desperate people (like the Father, and now aryan). He traps them in the Kothi to feed on their time.
+
+
+
+the stranger calls the landaline which shouldnt work as it is not connected the wire is broken.
+
+aryan picks the call and the stranger says the guests are coming prepare the dinner table for 4 people, play this music and wind the time in grandfather clock to 8:15pm ( the clock doesnt seem to work)
+
+
+it was just day 20 aryan does all these things but no one arrives that day so he thinks maybe the mood changed they might arrive tmrw he sleeps wakes up does the daily tasks and finds a diary of the first watchman he has written ---------.  and in evening stranger calls again asks to do the same he does it again noone arrives
+
+
+------cant think of middle part-----
+
+
+
+now finally it was day 30 he did the same thing again and this time guests arrived but they weren't humans they weren't ghosts but echoes from the past they ate they danced and then when aryan sees it using camera in the kitchen stranger was setting up fire for the blast they were memories being recreated now when aryan realised he could interact too in the world not just see like if he does something now it reflects the same in past and he has to save the family and then fight with stranger
+
+Here is the complete game script, incorporating all your specific plot points, filling in the "middle gap" with the First Watchman's lore, and building up to the interaction-based climax.
+GAME TITLE: THE KOTHI (WIRASAT)
+PROLOGUE: THE COSMIC JOKE
+
+VISUAL: Pitch black screen. AUDIO: A deep, booming, authoritative voice (B.R. Chopra Mahabharat style).
+
+SAMAY (V.O.): "Main Samay Hoon..." (I am Time). (Sound of a massive explosion - BOOM Emoji visual) "I have witnessed the birth of stars. I have seen the silence before the Big Bang." (Fast Montage: Dinosaurs getting hit by meteors -> The Mahabharat War -> The British leaving India -> 2025). "I have seen Empires rise from dust and return to dust. I hold the wisdom of the ages..."
+
+(Sound of a Record Scratch. Silence.) VISUAL: Cut to a messy, dim 1RK apartment in Mumbai. A ceiling fan wobbles noisily (Krrr-krrr). ARYAN (25, Civil Engineer) sits in his underwear at a messy table, scraping the bottom of a Maggi cup. He stares at a laptop screen.
+
+SCREEN TEXT: “Dear Aryan, regarding your employment... You are Fired. Effective immediately.”
+
+SAMAY (V.O.) (Sarcastic tone): "And then... there is Aryan. Bank Balance: ₹412. Future Prospects: Zero."
+
+ARYAN: "I knew it. Layoffs." (He checks his wallet: ₹412). "Rent is due in two days. Groceries... zero."
+
+CUT TO: EXT. TEA STALL - MUMBAI - DAY Aryan stands outside an office building, holding a rejection letter. He sits at a tapri. A sleek Rolls Royce pulls up. A man in a black suit (THE STRANGER) steps out. He approaches Aryan. He does not blink.
+
+STRANGER: "Boy. Bring me a tea."
+
+ARYAN: (Intimidated by the wealth) "Uh, yes sir." (Aryan brings the tea. The Stranger sips it, smiling unnervingly.)
+
+STRANGER: (Laughs) "You look like a man who needs an opportunity."
+
+ARYAN: "Yes sir. I really need a job. Any job. I can do anything. I'm a civil engineer, but—"
+
+STRANGER: "My clients have recently purchased an old Kothi in Rajasthan. Kothi No. 17. It has been empty for 40 years. We need a caretaker for about a month to clean it before the renovation crew arrives. Payment: ₹50,000 cash."
+
+ARYAN: "₹50,000? Done. When do I start?"
+
+STRANGER: "Awesome. Here is the address. Get there as soon as possible. I will contact you on the landline there."
+ACT 1: THE ARRIVAL (DAYS 1-5)
+
+EXT. VILLAGE - RAJASTHAN - DAY Aryan arrives. The village is colorful, vibrant, but eerily quiet around him.
+
+INT. GENERAL STORE Aryan places bread and milk on the counter. SHOPKEEPER (KAKA): "New to the village?" ARYAN: "Yes, Kaka. I’m the new watchman at Kothi No. 17." (Silence. Kaka stops moving. He stares at Aryan, wanting to speak, but looks fearful.) KAKA: (Whispering) "Take care of yourself." (He goes back to work abruptly).
+
+RESOURCE MANAGEMENT: Aryan looks at an Old Rusty Axe on the wall. Price: ₹350. ARYAN: "I only have ₹412. If I buy the axe, I can't buy food." (Player Choice: Aryan buys the food and a cheap Flashlight, leaving the Axe. This makes the game harder later).
+
+EXT. THE KOTHI - EVENING Aryan approaches. Massive, beautiful, but choked with vines and dust. TASK: Pick up trash. Dust the furniture. GAMEPLAY: The flashlight battery is low. It flickers constantly.
+
+EXPLORATION - SMOKING AREA Aryan finds a note under a broken chair. TEXT (Bunty, Watchman, 1995): "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably." ARYAN: "Heh. Amateur."
+ACT 2: THE STORM & THE LENS (DAYS 6-12)
+
+INT. KOTHI - NIGHT A massive rainstorm pounds the roof. Aryan sleeps huddled in a corner.
+
+EXT. VILLAGE STORE - MORNING Aryan runs to the shop. ARYAN: "Kaka, it rained so much yesterday! The roof is leaking." KAKA: "What do you mean? It is May. It does not rain in May. Look at the ground. Bone dry." (Kaka laughs it off as a city-boy joke. Aryan looks confused.)
+
+INT. KOTHI - NIGHT (THE STORM RETURNS) Thunder booms. The wind howls. Aryan looks out the window. Beyond the gate, the village is silent and moonlit. The storm is only inside the Kothi. CRASH! A window shatters.
+
+PUZZLE: THE RUSTED BOX While fixing the window, Aryan finds a loose floorboard. Underneath is a Rusted Iron Box. ARYAN: "Locked. I need a key." (Aryan searches the house. Finds a key hidden in a vase. Opens the box.)
+
+CONTENTS:
+
+    A Photo: A family (Father, Mother, Child) standing with The Stranger. ARYAN: "Wait... that's him. The guy from the tea stall. But this photo is 40 years old. He hasn't aged a day."
+
+    A Super-8 Camera: No battery, looks broken. ARYAN: (Picks it up) "The red light is blinking?"
+
+MECHANIC: TIME VISION Aryan raises the viewfinder to his eye. VISUAL: Through the lens, the room is Golden. Clean. New. It is 1984. Aryan pans the camera. JUMP SCARE: In the corner of the room, The Stranger is standing, staring directly into the lens, smiling. Aryan lowers the camera in panic. The room is empty.
+ACT 3: THE ANOMALIES & THE LOOP (DAYS 13-29)
+
+OBJECTIVE: Use the Camera to hunt for "Glitches." When Aryan films specific spots, he hears Audio Flashbacks. AUDIO (Fireplace): Stranger: "The contract is simple, Mr. Raichand. You get the wealth, I get the time. But if you leave the house... the deal is void." ARYAN: "He's a Collector. He eats time."
+
+THE PHONE CALL (THE LOOP BEGINS) Day 20. The broken landline rings. ARYAN: "Hello? The wire is cut, how is this—" STRANGER (Phone): "The guests are coming. Prepare the dinner table for 4. Play the record 'Raag Malhar'. Wind the Grandfather clock to 8:15 PM."
+
+THE TASKS: Aryan does the chores.
+
+    Sets the table.
+
+    Plays the music.
+
+    Fixes the clock to 8:15. RESULT: He waits all night. No one comes.
+
+Day 21. The phone rings again. STRANGER: "The guests are coming. Prepare the dinner table. Play the record. Wind the clock to 8:15." ARYAN: "I just did this yesterday!"
+
+(This repeats for days. Aryan starts losing his mind.)
+
+THE MISSING LINK (THE MIDDLE PART) Day 25. Frustrated, Aryan throws a book at the wall. Plaster cracks. Behind the wall, he finds a Hidden Diary. TEXT (The First Watchman - Mr. Raichand, 1984): "I am not a watchman. I am the owner. I made a mistake. The Stranger trapped us. He makes us relive the last night over and over. He feeds on the tragedy. 8:15 PM is when the fire started. If you are reading this... don't just watch. Change the stage."
+
+ARYAN: "I'm not cleaning the house... I'm setting the stage for their death. It's a loop."
+ACT 4: THE CLIMAX (DAY 30)
+
+INT. KOTHI - NIGHT TIME: 8:10 PM. The phone rings. Aryan rips the cord out. ARYAN: "Not today."
+
+THE ARRIVAL: The front doors blow open. The Echoes arrive. The Father, Mother, and Child. They are translucent, glowing memories. They sit at the table Aryan set. They dance to the music Aryan played.
+
+THE INTERACTION: Aryan raises the Camera. Through the lens, he sees The Stranger in the kitchen. The Stranger is loosening the gas pipe. He is smiling. STRANGER: "Burn."
+
+ARYAN: "I can interact with them. If I change the present, I change the past."
+
+TASK 1: THE GAS (THE FIRE) The Ghost Mother walks to the stove with a match. ARYAN: (Rushes to the kitchen in the present). The pipe is rusted and leaking gas in the present. ACTION: Aryan uses a Wrench (found earlier) to desperately tighten the valve. He burns his hand on the phantom heat. RESULT: He tightens it just as the Mother strikes the match. In the Past (Camera View): The match lights. No explosion. The Mother looks confused. The Stranger roars in anger.
+
+TASK 2: THE TRAP (THE DOOR) The Stranger (now visible as a shadow monster) tries to lock the Ghost Child in the bedroom. In the present, the door is jammed by debris. ACTION: Aryan needs the Axe. (If he didn't buy it, he has to use a heavy rock - it takes longer, intense button mashing). He smashes the door down in the present. RESULT: The door flies open in the past. The Ghost Child runs out.
+
+BOSS FIGHT: THE STRANGER The Stranger manifests in the Hallway, blocking the exit. He is made of shadows. STRANGER: "You cannot change the script, Engineer!" ARYAN: "I'm rewriting it!" ACTION: Aryan raises the Super-8 Camera. He charges the Flash. ARYAN: "Smile!" FLASH! The burst of light blinds the Shadow Entity. He screams and dissolves for a few seconds.
+
+THE ESCAPE: Aryan shouts to the Ghosts. ARYAN: "GO! OUTSIDE! NOW!" The Father sees the open door. He grabs his family. They run past the stunned Stranger. They cross the threshold of the Kothi. VISUAL: As they cross, they turn into beams of light and vanish into the sky. Free.
+EPILOGUE
+
+INT. KOTHI - COLLAPSING The Stranger shrieks. The loop is broken. The Kothi begins to crumble rapidly. Aryan sprints. Debris falls everywhere. He jumps through the window just as the roof caves in.
+
+EXT. RUINS - MORNING Aryan wakes up in the grass. The Kothi is a pile of ancient rubble. Kaka runs over. KAKA: "Aryan! You survived! The house... it just fell!"
+
+ARYAN: He checks his pocket. He pulls out the Photo. The Stranger is gone from the picture. The family is smiling. The Father is holding a sign: "Thank You."
+
+ARYAN: He checks his phone. Notification: "Payment Failed. Employer Unknown." ARYAN: "Of course. No cash."
+
+He sighs and kicks the rubble. CLINK. He looks down. Lying in the dust is the Gold Pocket Watch from the Grandfather Clock (the one he wound every day). It is heavy. Solid gold. Antique. ARYAN: (Smiles) "Severance package."
+
+SAMAY (V.O.): "Time is a river. Most people just float. But some... some learn to build dams. Aryan didn't get the job. But he got a story no one will believe. Except me."
+
+(Boom Emoji Sound) FADE TO BLACK.
+
+write it in clean text exactly how i wrote
+
+
+"""
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time - a messy 1rk apt in mumbai.... ceiling fan wobbling krrr krrr... aryan a civil engineer at a firm sitting on his table scraping the bottom of maggi cup and staring at the laptop screen and suddenly an email pops up - "You Are Fired!" it wasnt astonishing for him because he knew this will happen one day because of layoffs going on but he wasn't ready for this financial he checks his wallet - 412rs in it, he has to pay the rent to landlord, groceries, and what not... so he starts applying for other jobs but he couldnt get any one day after getting rejected he comes out of the office to drink tea at a tea stall while he sits and waits for his order to come a RR arrives and a man in black suit gets out of it and approaches the guy - he doesn't blink and asks him to bring the tea by seeing such a wealthy guy he does what he was commanded to after he brings the tea and serves him, the stranger laughs and says you look like "a man who needs an opportunity" aryan says "yes sir i really need a job any job i can do anything please lemme know if you have an opportunity." stranger replies "my clients have recently purchased an old Kothi in Rajasthan, It has been empty for 40 years. we need a caretaker for about a month to clean it before renovation crew arrives and the payment will be 50000rs cash." aryan says "done whed do i start"
+
+stranger replies "that's awesome here is the address of that kothi get there as soon as possible i'll contact you on landline there" 
+
+
+
+act 1 - days ( 1-5 )
+
+
+aryan arrives in village it is beautiful,colorful but quiet.
+
+aryan walks to the general store to buy some stuff the shopkeeper kaka asks him if he is new to the village aryan replies yes kaka im the new watchman at the kothi no. 17. kaka doesnt say anything and stares silently and gets into his work afterwards it was like he wanted to say smtg but smone was stopping him aryan gets to buy some stuff but he had limited money and there is an axe in the store too ( which he'll need later but he doesn't know ) he has only 412rs rn and the stranger will give the money later so he'll have to make choice what things to buy.... now after shopping he leaves the place and approaches the kothi it was almost evening and he looks at the kothi it is massive beautiful but it is covered in vines and dust so much
+
+now he has to do some tasks like picking up the trash dust the furnitures... he founds a flashlight in the house too low battery in it....
+
+
+he finds a note under a broken chair in the smoking area by a previous watchman **Text (Bunty, Watchman, 1995):** "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably."
+
+**Aryan:** "Heh. Amateur."
+
+
+ACT 2 days ( 6-12 )
+
+
+it was a rainy night so aryan slept inside the haveli and the next day when h goes to the village and says to the shopkeeper kaka it rained so much yesterday and he says what do you mean it rained so much yesterday it is month of may it doesnt rain in may and in rajasthan definitely not kaka takes it as satire and leaves it then he gets his stuff from the store goes back to the haveli does his work but tonight at the haveli it wasnt just raining but storm too but when aryan looked outside in the village it was all dry no storm not even a single drop of rain nothing he gets a bit scared and suddenly a sound comes glass window shattered now he has to fix the windows but while fixing them he sees a mysterious rusted box there he tries to open it but needs a key he doesnt have so he has to find it in the house and after opening he finds a picture in the picture there is a family but with the family one more person is there who looks familiar the stranger but the thing is he looks the same in picture as he looked yesterday he hasnt aged for 40 years or wot?? but along with the photo there is a camera a super-8 video camera it looks broken no batteries inside but it seems to be working the light in it blinks... he raises the camera the room is not dusty anymore it is golden, warm and new. aryan pans the camera on a corner in the viewfinder he sees the stranger is standing there staring directly at the lens as he can see aryan using camera... aryan lowers the camera in panic and the corner is empty there is noone around.
+
+
+act 3 ( find anomalies )
+
+
+use the camera to solve puzzles find anomalies and learn the truth.
+
+
+
+aryan finds "glitches" in the house. When he films specific spots (like the fireplace or the garden swing), the Camera plays audio flashbacks.
+
+He hears the Stranger talking to the Father in 1984.
+
+"The contract is simple, Mr. Raichand. You get the wealth, I get the time. But if you leave the house... the deal is void."*
+
+The Stranger isn't a human. He is a Collector. He makes deals with desperate people (like the Father, and now aryan). He traps them in the Kothi to feed on their time.
+
+
+
+the stranger calls the landaline which shouldnt work as it is not connected the wire is broken.
+
+aryan picks the call and the stranger says the guests are coming prepare the dinner table for 4 people, play this music and wind the time in grandfather clock to 8:15pm ( the clock doesnt seem to work)
+
+
+it was just day 20 aryan does all these things but no one arrives that day so he thinks maybe the mood changed they might arrive tmrw he sleeps wakes up does the daily tasks and finds a diary of the first watchman he has written ---------.  and in evening stranger calls again asks to do the same he does it again noone arrives
+
+
+------cant think of middle part-----
+
+
+
+now finally it was day 30 he did the same thing again and this time guests arrived but they weren't humans they weren't ghosts but echoes from the past they ate they danced and then when aryan sees it using camera in the kitchen stranger was setting up fire for the blast they were memories being recreated now when aryan realised he could interact too in the world not just see like if he does something now it reflects the same in past and he has to save the family and then fight with stranger
+
+"""
+
+Here is the story exactly as you wrote it, converted into clean, readable text with proper formatting and structure. I have filled in the "Middle Part" based on our previous discussion about the First Watchman's diary to bridge the gap to the climax.
+Intro: The Cosmic Joke & The Offer
+
+Starts from the Big Bang and Mahabharat — "Main Samay Hu", boom emoji, funny speech. Then, fast forward to the current time.
+
+A messy 1RK apartment in Mumbai. The ceiling fan is wobbling krrr krrr.
+
+Aryan, a civil engineer at a firm, is sitting at his table scraping the bottom of a Maggi cup and staring at the laptop screen. Suddenly, an email pops up: "You Are Fired!"
+
+It wasn't astonishing for him because he knew this would happen one day due to the layoffs going on, but he wasn't ready for this financially. He checks his wallet — 412rs in it. He has to pay the rent to the landlord, buy groceries, and what not.
+
+He starts applying for other jobs, but he couldn't get any. One day, after getting rejected, he comes out of the office to drink tea at a tea stall. While he sits and waits for his order to come, a Rolls Royce arrives. A man in a black suit gets out of it and approaches the guy. He doesn't blink. He asks him to bring the tea. Seeing such a wealthy guy, Aryan does what he was commanded to.
+
+After he brings the tea and serves him, the Stranger laughs and says, "You look like a man who needs an opportunity."
+
+Aryan: "Yes sir, I really need a job. Any job. I can do anything. Please let me know if you have an opportunity."
+
+Stranger: "My clients have recently purchased an old Kothi in Rajasthan. It has been empty for 40 years. We need a caretaker for about a month to clean it before the renovation crew arrives. The payment will be 50,000rs cash."
+
+Aryan: "Done. When do I start?"
+
+Stranger: "That's awesome. Here is the address of that Kothi. Get there as soon as possible. I'll contact you on the landline there."
+Act 1: Arrival (Days 1-5)
+
+Aryan arrives in the village. It is beautiful, colorful, but quiet.
+
+Aryan walks to the general store to buy some stuff. The shopkeeper, Kaka, asks him if he is new to the village.
+
+Aryan: "Yes Kaka, I'm the new watchman at the Kothi No. 17."
+
+Kaka doesn't say anything. He stares silently and gets back to his work. Afterwards, it was like he wanted to say something, but someone was stopping him.
+
+Aryan gets to buy some stuff, but he had limited money. There is an Axe in the store too (which he'll need later, but he doesn't know yet). He has only 412rs right now and the Stranger will give the money later, so he has to make a choice on what things to buy.
+
+Now, after shopping, he leaves the place and approaches the Kothi. It was almost evening. He looks at the Kothi; it is massive and beautiful, but it is covered in vines and dust.
+
+He has to do some tasks like picking up the trash and dusting the furniture. He finds a flashlight in the house too, but there is low battery in it.
+
+He finds a note under a broken chair in the smoking area left by a previous watchman.
+
+    Text (Bunty, Watchman, 1995): "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably."
+
+Aryan: "Heh. Amateur."
+Act 2: The Storm & The Lens (Days 6-12)
+
+It was a rainy night, so Aryan slept inside the Haveli.
+
+The next day, when he goes to the village and says to the shopkeeper Kaka, "It rained so much yesterday," Kaka says, "What do you mean it rained so much yesterday? It is the month of May. It doesn't rain in May, and in Rajasthan, definitely not."
+
+Kaka takes it as satire and leaves it. Then Aryan gets his stuff from the store and goes back to the Haveli to do his work.
+
+But tonight at the Haveli, it wasn't just raining, but a storm too. However, when Aryan looked outside into the village, it was all dry. No storm. Not even a single drop of rain. Nothing. He gets a bit scared.
+
+Suddenly, a sound comes — a glass window shattered. Now he has to fix the windows. While fixing them, he sees a mysterious Rusted Box there. He tries to open it but needs a key he doesn't have, so he has to find it in the house.
+
+After opening it, he finds a picture. In the picture, there is a family, but with the family, one more person is there who looks familiar — The Stranger.
+
+But the thing is, he looks the same in the picture as he looked yesterday. He hasn't aged for 40 years or what??
+
+Along with the photo, there is a Super-8 Video Camera. It looks broken, no batteries inside, but it seems to be working. The light in it blinks.
+
+He raises the camera. The room is not dusty anymore. It is golden, warm, and new. Aryan pans the camera to a corner. In the viewfinder, he sees The Stranger is standing there, staring directly at the lens as if he can see Aryan using the camera.
+
+Aryan lowers the camera in panic and the corner is empty. There is no one around.
+Act 3: Anomalies & The Loop (Days 13-29)
+
+Aryan uses the camera to solve puzzles, find anomalies, and learn the truth.
+
+Aryan finds "glitches" in the house. When he films specific spots (like the fireplace or the garden swing), the Camera plays audio flashbacks. He hears the Stranger talking to the Father in 1984.
+
+    Audio: "The contract is simple, Mr. Raichand. You get the wealth, I get the time. But if you leave the house... the deal is void."
+
+The Stranger isn't a human. He is a Collector. He makes deals with desperate people (like the Father, and now Aryan). He traps them in the Kothi to feed on their time.
+
+The Stranger calls the landline, which shouldn't work as it is not connected (the wire is broken). Aryan picks up the call.
+
+Stranger: "The guests are coming. Prepare the dinner table for 4 people, play this music, and wind the time in the grandfather clock to 8:15 PM." (The clock doesn't seem to work).
+
+It was just Day 20. Aryan does all these things, but no one arrives that day. So he thinks maybe the mood changed, they might arrive tomorrow. He sleeps, wakes up, does the daily tasks.
+
+In the evening, the Stranger calls again and asks him to do the same thing. He does it again. No one arrives.
+
+[The Middle Part: The Discovery]
+
+Frustrated by the loop, Aryan searches the house deeper. He finds the Diary of the First Watchman (The Father). He has written:
+
+    "I am not a watchman. I am the owner. The Stranger trapped us. He makes us relive the last night over and over. He feeds on the tragedy. 8:15 PM is when the fire started. If you are reading this... don't just watch. Change the stage."
+
+Aryan realizes he isn't cleaning the house; he is setting the stage for their death. It's a time loop.
+The Ending: The Night of the Guests (Day 30)
+
+Now, finally, it was Day 30. He did the same thing again.
+
+This time, Guests Arrived. But they weren't humans. They weren't ghosts. They were Echoes from the past.
+
+They ate, they danced.
+
+Then, when Aryan sees it using the camera in the kitchen, The Stranger was setting up the fire for the blast. They were memories being recreated.
+
+Now Aryan realized he could interact too in the world, not just see. If he does something now, it reflects the same in the past.
+
+He has to save the family and then fight with the Stranger.
+
+add more choices plots etc in the story it is a movie like this only cutscenes duh
+
+Here is the story rewritten as a Game Design Script. Instead of just reading what happens, the Player has to make choices, manage resources, and solve puzzles.
+
+The story is the same, but how you get to the end depends on your gameplay.
+GAME START: THE COSMIC INTRO
+
+Cutscene: "Main Samay Hu" (Boom Emoji, Universe Montage). Transition: The camera zooms into the Mumbai apartment.
+Interactive Intro: The Layoff
+
+Objective: Check your status.
+
+    Action: Player clicks on Laptop. Email pops up: "Fired."
+
+    Action: Player clicks on Wallet.
+
+        HUD Update: Cash: ₹412.
+
+    Choice: You are hungry.
+
+        Option A: Eat the last Maggi (Gives Energy, but you have no food left).
+
+        Option B: Save the Maggi (You remain hungry, screen is slightly blurry/shaky, but you save food for later).
+
+Scene: The Tea Stall.
+
+    The Stranger arrives. The dialogue is interactive.
+
+    Stranger: "You look like a man who needs an opportunity."
+
+        Reply A (Desperate): "Yes sir, anything." (Stranger smiles. Easy Start).
+
+        Reply B (Suspicious): "Who are you?" (Stranger frowns. He gives you the job but doesn't give you the advance money for travel ticket. You lose ₹100 on bus fare).
+
+ACT 1: THE SHOPPING (The Critical Choice)
+
+Location: Village General Store. NPC: Kaka (Shopkeeper).
+
+Dialogue Choice:
+
+    Option A (Friendly): "Ram Ram Kaka, nice village." -> Result: Kaka likes you. He gives you a free box of matches.
+
+    Option B (Direct): "I'm the watchman at Kothi 17." -> Result: Kaka gets scared. He refuses to talk further.
+
+GAMEPLAY: THE INVENTORY PUZZLE Wallet: ₹412 (or ₹312 if you paid for bus). Available Items:
+
+    Bread & Milk (Food): ₹150 (Restores Health).
+
+    Flashlight: ₹200 (Essential for dark areas).
+
+    Rusty Axe: ₹350 (Heavy weapon/tool).
+
+    Batteries: ₹50 (For Flashlight/Camera).
+
+The Dilemma:
+
+    You cannot buy everything.
+
+    If you buy the Axe: You have a weapon, but no light (scary) and no food (low stamina).
+
+    If you buy Flashlight + Food: You are safe and fed, but defenseless.
+
+Player Decision: Let's assume the player buys Flashlight + Food + Batteries. (No Axe).
+ACT 2: THE HAUNTING (Days 1-12)
+
+Location: The Kothi. Mechanic: Sanity Meter.
+
+    Standing in the dark lowers Sanity (Vision blurs, whispering voices).
+
+    Using Flashlight keeps Sanity high.
+
+Exploration Task: "Clean the Smoking Area."
+
+    Player physically moves trash.
+
+    Discovery: The Bunty Note (1995).
+
+    Choice: Do you keep the note or throw it?
+
+        Keep: Adds to "Journal" (Lore).
+
+        Throw: You miss a clue about the "Cold Spots."
+
+The Storm Event (Day 6):
+
+    Puzzle: Window broken. Rain coming in.
+
+    Task: Find wood to block it.
+
+    Discovery: You find the Rusted Box.
+
+    Mini-Game: Lockpicking. You have to rotate the lock pins with your mouse/stick. (Success = Box opens. Fail = Lock jams, you have to smash it with a brick, making noise).
+
+Item Acquired: The Time Camera.
+ACT 3: THE ANOMALIES (The Investigation)
+
+New Mechanic: The Dual View
+
+    Right Click: Raise Camera (See 1984).
+
+    Left Click: Lower Camera (See Present).
+
+The Danger: If you stare at the Stranger in the Camera for more than 3 seconds, he attacks your Sanity. You must look away quickly.
+
+The Phone Call (Puzzle): The Stranger calls. "Set the table. Wind the clock."
+
+Puzzle 1: The Dining Table
+
+    Objective: Place plates for 4 people.
+
+    Problem: The plates are missing in the present.
+
+    Solution: Use Camera. Look at 1984 kitchen. You see the Ghost Mother hiding the "Good China" inside the oven.
+
+    Action: Player goes to the rusty oven in the present -> Opens it -> Finds plates -> Sets table.
+
+Puzzle 2: The Grandfather Clock
+
+    Objective: Set time to 8:15.
+
+    Problem: The minute hand is broken off.
+
+    Search: You have to follow the "Ghost Child" footprints with the Camera. They lead to the garden.
+
+    Action: Dig in the garden (Player clicks to dig). Find the minute hand. Fix the clock.
+
+Consequence of Failure: If you fail these puzzles or take too long, the "Stranger" entity starts throwing objects at you in the present (taking Health).
+ACT 4: THE LOOP (The Climax)
+
+Day 30. The "Guests" arrive (Echoes). Objective: Save the family.
+
+The Interactive Finale: You must interact with the Present to change the Past.
+
+Obstacle 1: The Gas Leak (Kitchen)
+
+    Observation: In Camera, the Stranger loosens the gas pipe.
+
+    Player Action: In Present, you see the pipe is rusted.
+
+    Choice:
+
+        If you have a Wrench (Found exploring): You tighten it. (Success).
+
+        If you have nothing: You try to use your hands. (Failure - Hand burns, you take damage). You have to find a cloth to wrap the pipe. Time is ticking!
+
+Obstacle 2: The Locked Door (Bedroom) The Ghost Child is trapped. The door is jammed.
+
+    BRANCHING PATH (Based on Act 1 Shopping):
+
+        Scenario A (You Bought the Axe):
+
+            Player selects Axe.
+
+            Press 'E' to Smash.
+
+            Result: Door breaks in 2 hits. Child is saved easily.
+
+        Scenario B (You didn't buy the Axe):
+
+            Player panics.
+
+            Search: Look for a heavy object. Find a stone bust in the hallway.
+
+            Action: Throw stone at door (Requires 5 hits).
+
+            Risk: The fire is spreading. If you are too slow, the Child takes damage (Bad Ending).
+
+Boss Fight: The Stranger
+
+    The Stranger blocks the exit. He is invisible to the naked eye.
+
+    Mechanic: You must look through the Camera to see him.
+
+    Combat: Wait for him to lunge -> FLASH him with the Camera light.
+
+    Resource Management: Each Flash uses battery.
+
+        If you bought extra batteries in Act 1: Easy fight.
+
+        If you didn't: You have only 3 flashes. You must be perfect.
+
+THE ENDINGS (Based on your choices)
+
+Ending 1: The Perfect Timeline (Good Ending)
+
+    Conditions: You saved the Child (Axe/Stone), fixed the Gas, flashed the Stranger.
+
+    Outcome: The family escapes. The Kothi crumbles. Aryan finds the Gold Watch.
+
+    Post-Credit: Aryan sells the watch for 10 Lakhs. He starts his own construction firm.
+
+Ending 2: The Broken Loop (Neutral Ending)
+
+    Conditions: You saved the family, but took too long/took damage. You didn't find the Gold Watch because you didn't explore enough.
+
+    Outcome: The family escapes. Aryan survives but is buried in rubble for hours. He wakes up in a hospital. He has no money, but he is alive. The Stranger is gone.
+
+Ending 3: The New Watchman (Bad Ending)
+
+    Conditions: You failed to fix the Gas or didn't save the Child.
+
+    Outcome: The fire happens again. The loop resets.
+
+    Scene: Aryan is sitting at the tea stall in 1984. The Stranger approaches him (like in the photo). Aryan has become the new ghost trapped in the photo.
+
+    Samay Voiceover: "Some loops... are never broken."
+
+Does this structure feel more like a game to you?
+
+i want to add a whole village where the player tasks to people explores it so many random things in haveli to explore like not just few but so many and people trust etc like a big big game bruh
+
+This changes everything. Now we are moving from a "Walking Simulator" to a full-blown Open World RPG / Mystery Simulation.
+
+This version, "The Kothi: Wirasat (Extended Edition)," focuses on the Economy, the Social System (Trust), and Deep Exploration.
+
+Here is the expanded Game Design Document.
+CORE SYSTEMS
+1. The Day/Night Cycle
+
+    07:00 AM - 05:00 PM (Village Phase): The Haveli is locked/inactive. You spend time in the village, doing side jobs, buying supplies, and investigating lore.
+
+    06:00 PM - 04:00 AM (Haveli Phase): You enter the Kothi. The supernatural elements activate. You work, survive, and explore.
+
+2. The "Trust" System (Reputation)
+
+The villagers know about the Kothi's curse. They don't trust outsiders.
+
+    Low Trust: Shops overcharge you. People won't talk about the history. Key areas (Temple, Library) are locked.
+
+    High Trust: You get discounts. Elders tell you secrets. You unlock special items (Holy threads, Ancient Maps).
+
+3. The Economy (The 412 Rupees Problem)
+
+You need money to survive 30 days. You can't just wait for the 50k.
+
+    Income: Fix electronics for villagers, deliver milk, or sell "junk" found in the Haveli to the Scrap Dealer (Moral Consequence: The ghosts get angry if you steal their stuff).
+
+LOCATION 1: THE VILLAGE (Anandgarh)
+
+A fully explorable hub with 5 key zones.
+A. General Store (Kaka's Shop)
+
+    Interaction: Buy Food, Batteries, Fuse Wire, Tools.
+
+    Side Quest: The Broken Radio. Kaka’s old radio is broken. If you (as an engineer) fix it using parts found in the Haveli, he gives you a 50% Discount for life.
+
+B. The Temple (Mandir)
+
+    NPC: Panditji. He senses the evil on you.
+
+    Mechanic: Sanity Restoration. If your fear level is too high, sit here to meditate.
+
+    Quest: The Lost Idol. Find a small Ganesh idol lost in the Haveli 40 years ago.
+
+        Reward: Raksha Sutra (Holy Thread). Wearing this allows you to survive one attack from the Stranger without taking damage.
+
+C. The Tea Stall & Garage
+
+    NPC: Raju (Mechanic).
+
+    Shop: Upgrades for your Flashlight (brighter beam) and Camera (longer battery life).
+
+    Mini-Game: Help Raju fix a tractor engine to earn ₹200.
+
+D. The School / Library
+
+    NPC: Riya (Teacher/Historian).
+
+    Function: Research. When you find weird symbols or letters in the Haveli, bring them here. Riya translates them for you.
+
+    Trust unlock: She only talks to you if your Reputation is Level 3.
+
+E. The Scrap Yard
+
+    NPC: Shady Guy.
+
+    Function: Sell antique spoons, vases, or paintings you steal from the Kothi.
+
+    Risk: Selling items lowers your "Karma." Low Karma = More aggressive ghosts at night.
+
+LOCATION 2: THE KOTHI (The Deep Exploration)
+
+It’s not just rooms. It’s an ecosystem of thousands of interactable objects.
+Interactive Object Examples (The "Random Things"):
+
+    The Gramophone (Music Room):
+
+        You find vinyl records scattered around the house.
+
+        Action: Playing different records changes the environment.
+
+        Secret: Playing "Raag Deepak" melts a wax seal on a hidden cabinet.
+
+    The Telescope (Attic):
+
+        It’s pointed at the sky.
+
+        Puzzle: You have to align the lenses.
+
+        Payoff: Looking through it doesn't show stars. It shows the Village as it looked 100 years ago. You see where a treasure was buried in the village garden.
+
+    The Plumbing System (Basement):
+
+        The water is off. You can use your Engineering skills to fix the pipes.
+
+        Result: Running water works in the bathroom. Now you can wash your face to restore Sanity.
+
+    The Library Books:
+
+        There are 50+ readable books.
+
+        Most are generic. But some contain Skills.
+
+        Example: Reading "Basic Lockpicking" unlocks the ability to open locked drawers without keys.
+
+    The Toy Train (Child’s Room):
+
+        It’s missing tracks.
+
+        Side Quest: Find track pieces in different rooms.
+
+        Reward: When the train runs, it carries a small key on its back from under the bed.
+
+EXPANDED NARRATIVE SCRIPT
+Act 1: The Outsider (Days 1-7)
+
+    Village: Aryan is ignored. He has to sleep in the Kothi (scary). He eats cheap biscuits.
+
+    Task: Kaka refuses to sell him the Axe because "outsiders cause trouble."
+
+    Mission: Aryan must fix the Village Water Pump (Engineering minigame) to prove he is useful.
+
+    Reward: Trust Level 1. Kaka sells the Axe.
+
+Act 2: The Thief or The Caretaker? (Days 8-15)
+
+    Economy Crisis: Aryan runs out of money.
+
+    Choice:
+
+        Path A: Steal a Silver Vase from the Haveli and sell it to the Scrap Yard. (Get ₹2000. Eat well. But the Ghost Mother cries at night, lowering Sanity).
+
+        Path B: Work double shifts at the Garage. (Get ₹300. Starve. But the Ghosts remain calm).
+
+Act 3: The Village Secret (Days 16-24)
+
+    Discovery: Using the Time Camera in the Village (not just the house).
+
+    The Shock: Aryan films the Tea Stall in 1984.
+
+        He sees the Shopkeeper (Kaka) and the Priest talking to The Stranger.
+
+        Dialogue: "Take the money, Kaka. Just turn a blind eye to what happens at the Kothi tonight."
+
+    Confrontation: Aryan shows the footage to Kaka in the present.
+
+        Kaka breaks down. The whole village took bribes to ignore the fire 40 years ago. The "Trust" system flips. Now the Villagers owe Aryan. They give him the Master Key to the Haveli crypt.
+
+Act 4: The Preparation (Days 25-29)
+
+    The Siege: The Stranger knows Aryan knows. He makes the Kothi extremely hostile.
+
+    The Village Rally:
+
+        If you have High Trust: The Villagers give you supplies. Panditji blesses your Axe. Riya gives you the map of the gas pipes.
+
+        If you have Low Trust: You are on your own.
+
+GAMEPLAY EXAMPLE: A RANDOM TUESDAY (Day 12)
+
+09:00 AM: Wake up in Haveli. Sanity is low (shaky hands). 09:30 AM: Walk to Village. Eat a Samosa at Tea Stall (+10 Health). 10:00 AM: Talk to Riya at School.
+
+    Interaction: Show her a diary page. She translates: "The Stranger is weak against Copper." 11:00 AM: Go to Scrap Yard. Buy old Copper Wire (₹50). 02:00 PM: Work at Garage repairing a bike. Earn ₹100. 06:00 PM: Return to Kothi. 07:00 PM: Crafting. Combine Axe + Copper Wire.
+
+    New Item: Conductive Axe (Does more damage to the Entity). 09:00 PM: Explore the Basement. Use the new Axe to break a reinforced door. 10:00 PM: Find the Generator.
+
+    Puzzle: Rewire it.
+
+    Result: Lights turn on in the garden! The Stranger can no longer hide in the garden shadows. 01:00 AM: Sleep.
+
+IMMERSIVE DETAILS (The "Big Game" Feel)
+
+    The Phone Booth: You can try to call your Mom in Mumbai.
+
+        Early Game: "Mom, I got a job!"
+
+        Late Game: "Mom... I don't think I'm coming home. I love you." (Voice acting changes to terrified).
+
+    Cooking System:
+
+        The Haveli kitchen works if you fix the gas. You can buy raw vegetables from the village and cook proper meals (High Health/Sanity boost) instead of eating raw bread.
+
+    Radio Broadcasts:
+
+        The radio in the Kothi sometimes plays news from 1984, sometimes news from 2024. Sometimes it just broadcasts Aryan's own thoughts.
+
+    Weather System:
+
+        Dynamic weather. Rain makes the Kothi muddy (footprints appear). Fog makes the Stranger harder to see. Heatwave makes stamina drain faster.
+
+Does this scale feel big enough? It turns the game into a living world where the Village and the House are connected by economy, history, and guilt.
+
+wow this is amazing and with the trust like the story isnt revealed so instantly it reveals in parts with notes and talking to people randomly and lots of other things now add these all features in the story and give me the complete story with all these things and a complete script so i can start making the game
+
+
+
+"""
+
+starts from big bang and mahabharat - main samay hu, boom emoji, funny speech and then fast forward to current time - a messy 1rk apt in mumbai.... ceiling fan wobbling krrr krrr... aryan a civil engineer at a firm sitting on his table scraping the bottom of maggi cup and staring at the laptop screen and suddenly an email pops up - "You Are Fired!" it wasnt astonishing for him because he knew this will happen one day because of layoffs going on but he wasn't ready for this financial he checks his wallet - 412rs in it, he has to pay the rent to landlord, groceries, and what not... so he starts applying for other jobs but he couldnt get any one day after getting rejected he comes out of the office to drink tea at a tea stall while he sits and waits for his order to come a RR arrives and a man in black suit gets out of it and approaches the guy - he doesn't blink and asks him to bring the tea by seeing such a wealthy guy he does what he was commanded to after he brings the tea and serves him, the stranger laughs and says you look like "a man who needs an opportunity" aryan says "yes sir i really need a job any job i can do anything please lemme know if you have an opportunity." stranger replies "my clients have recently purchased an old Kothi in Rajasthan, It has been empty for 40 years. we need a caretaker for about a month to clean it before renovation crew arrives and the payment will be 50000rs cash." aryan says "done whed do i start"
+
+stranger replies "that's awesome here is the address of that kothi get there as soon as possible i'll contact you on landline there" 
+
+
+
+act 1 - days ( 1-5 )
+
+
+aryan arrives in village it is beautiful,colorful but quiet.
+
+aryan walks to the general store to buy some stuff the shopkeeper kaka asks him if he is new to the village aryan replies yes kaka im the new watchman at the kothi no. 17. kaka doesnt say anything and stares silently and gets into his work afterwards it was like he wanted to say smtg but smone was stopping him aryan gets to buy some stuff but he had limited money and there is an axe in the store too ( which he'll need later but he doesn't know ) he has only 412rs rn and the stranger will give the money later so he'll have to make choice what things to buy.... now after shopping he leaves the place and approaches the kothi it was almost evening and he looks at the kothi it is massive beautiful but it is covered in vines and dust so much
+
+now he has to do some tasks like picking up the trash dust the furnitures... he founds a flashlight in the house too low battery in it....
+
+
+he finds a note under a broken chair in the smoking area by a previous watchman **Text (Bunty, Watchman, 1995):** "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably."
+
+**Aryan:** "Heh. Amateur."
+
+
+ACT 2 days ( 6-12 )
+
+
+it was a rainy night so aryan slept inside the haveli and the next day when h goes to the village and says to the shopkeeper kaka it rained so much yesterday and he says what do you mean it rained so much yesterday it is month of may it doesnt rain in may and in rajasthan definitely not kaka takes it as satire and leaves it then he gets his stuff from the store goes back to the haveli does his work but tonight at the haveli it wasnt just raining but storm too but when aryan looked outside in the village it was all dry no storm not even a single drop of rain nothing he gets a bit scared and suddenly a sound comes glass window shattered now he has to fix the windows but while fixing them he sees a mysterious rusted box there he tries to open it but needs a key he doesnt have so he has to find it in the house and after opening he finds a picture in the picture there is a family but with the family one more person is there who looks familiar the stranger but the thing is he looks the same in picture as he looked yesterday he hasnt aged for 40 years or wot?? but along with the photo there is a camera a super-8 video camera it looks broken no batteries inside but it seems to be working the light in it blinks... he raises the camera the room is not dusty anymore it is golden, warm and new. aryan pans the camera on a corner in the viewfinder he sees the stranger is standing there staring directly at the lens as he can see aryan using camera... aryan lowers the camera in panic and the corner is empty there is noone around.
+
+
+act 3 ( find anomalies )
+
+
+use the camera to solve puzzles find anomalies and learn the truth.
+
+
+
+aryan finds "glitches" in the house. When he films specific spots (like the fireplace or the garden swing), the Camera plays audio flashbacks.
+
+He hears the Stranger talking to the Father in 1984.
+
+"The contract is simple, Mr. Raichand. You get the wealth, I get the time. But if you leave the house... the deal is void."*
+
+The Stranger isn't a human. He is a Collector. He makes deals with desperate people (like the Father, and now aryan). He traps them in the Kothi to feed on their time.
+
+
+
+the stranger calls the landaline which shouldnt work as it is not connected the wire is broken.
+
+aryan picks the call and the stranger says the guests are coming prepare the dinner table for 4 people, play this music and wind the time in grandfather clock to 8:15pm ( the clock doesnt seem to work)
+
+
+it was just day 20 aryan does all these things but no one arrives that day so he thinks maybe the mood changed they might arrive tmrw he sleeps wakes up does the daily tasks and finds a diary of the first watchman he has written ---------.  and in evening stranger calls again asks to do the same he does it again noone arrives
+
+
+------cant think of middle part-----
+
+
+
+now finally it was day 30 he did the same thing again and this time guests arrived but they weren't humans they weren't ghosts but echoes from the past they ate they danced and then when aryan sees it using camera in the kitchen stranger was setting up fire for the blast they were memories being recreated now when aryan realised he could interact too in the world not just see like if he does something now it reflects the same in past and he has to save the family and then fight with stranger
+
+"""
+
+
+
+"""
+
+This changes everything. Now we are moving from a "Walking Simulator" to a full-blown Open World RPG / Mystery Simulation.
+
+This version, "The Kothi: Wirasat (Extended Edition)," focuses on the Economy, the Social System (Trust), and Deep Exploration.
+
+Here is the expanded Game Design Document.
+
+CORE SYSTEMS
+
+1. The Day/Night Cycle
+
+07:00 AM - 05:00 PM (Village Phase): The Haveli is locked/inactive. You spend time in the village, doing side jobs, buying supplies, and investigating lore.
+
+06:00 PM - 04:00 AM (Haveli Phase): You enter the Kothi. The supernatural elements activate. You work, survive, and explore.
+
+2. The "Trust" System (Reputation)
+
+The villagers know about the Kothi's curse. They don't trust outsiders.
+
+Low Trust: Shops overcharge you. People won't talk about the history. Key areas (Temple, Library) are locked.
+
+High Trust: You get discounts. Elders tell you secrets. You unlock special items (Holy threads, Ancient Maps).
+
+3. The Economy (The 412 Rupees Problem)
+
+You need money to survive 30 days. You can't just wait for the 50k.
+
+Income: Fix electronics for villagers, deliver milk, or sell "junk" found in the Haveli to the Scrap Dealer (Moral Consequence: The ghosts get angry if you steal their stuff).
+
+LOCATION 1: THE VILLAGE (Anandgarh)
+
+A fully explorable hub with 5 key zones.
+
+A. General Store (Kaka's Shop)
+
+Interaction: Buy Food, Batteries, Fuse Wire, Tools.
+
+Side Quest: The Broken Radio. Kaka’s old radio is broken. If you (as an engineer) fix it using parts found in the Haveli, he gives you a 50% Discount for life.
+
+B. The Temple (Mandir)
+
+NPC: Panditji. He senses the evil on you.
+
+Mechanic: Sanity Restoration. If your fear level is too high, sit here to meditate.
+
+Quest: The Lost Idol. Find a small Ganesh idol lost in the Haveli 40 years ago.
+
+Reward: Raksha Sutra (Holy Thread). Wearing this allows you to survive one attack from the Stranger without taking damage.
+
+C. The Tea Stall & Garage
+
+NPC: Raju (Mechanic).
+
+Shop: Upgrades for your Flashlight (brighter beam) and Camera (longer battery life).
+
+Mini-Game: Help Raju fix a tractor engine to earn ₹200.
+
+D. The School / Library
+
+NPC: Riya (Teacher/Historian).
+
+Function: Research. When you find weird symbols or letters in the Haveli, bring them here. Riya translates them for you.
+
+Trust unlock: She only talks to you if your Reputation is Level 3.
+
+E. The Scrap Yard
+
+NPC: Shady Guy.
+
+Function: Sell antique spoons, vases, or paintings you steal from the Kothi.
+
+Risk: Selling items lowers your "Karma." Low Karma = More aggressive ghosts at night.
+
+LOCATION 2: THE KOTHI (The Deep Exploration)
+
+It’s not just rooms. It’s an ecosystem of thousands of interactable objects.
+
+Interactive Object Examples (The "Random Things"):
+
+The Gramophone (Music Room):
+
+You find vinyl records scattered around the house.
+
+Action: Playing different records changes the environment.
+
+Secret: Playing "Raag Deepak" melts a wax seal on a hidden cabinet.
+
+The Telescope (Attic):
+
+It’s pointed at the sky.
+
+Puzzle: You have to align the lenses.
+
+Payoff: Looking through it doesn't show stars. It shows the Village as it looked 100 years ago. You see where a treasure was buried in the village garden.
+
+The Plumbing System (Basement):
+
+The water is off. You can use your Engineering skills to fix the pipes.
+
+Result: Running water works in the bathroom. Now you can wash your face to restore Sanity.
+
+The Library Books:
+
+There are 50+ readable books.
+
+Most are generic. But some contain Skills.
+
+Example: Reading "Basic Lockpicking" unlocks the ability to open locked drawers without keys.
+
+The Toy Train (Child’s Room):
+
+It’s missing tracks.
+
+Side Quest: Find track pieces in different rooms.
+
+Reward: When the train runs, it carries a small key on its back from under the bed.
+
+EXPANDED NARRATIVE SCRIPT
+
+Act 1: The Outsider (Days 1-7)
+
+Village: Aryan is ignored. He has to sleep in the Kothi (scary). He eats cheap biscuits.
+
+Task: Kaka refuses to sell him the Axe because "outsiders cause trouble."
+
+Mission: Aryan must fix the Village Water Pump (Engineering minigame) to prove he is useful.
+
+Reward: Trust Level 1. Kaka sells the Axe.
+
+Act 2: The Thief or The Caretaker? (Days 8-15)
+
+Economy Crisis: Aryan runs out of money.
+
+Choice:
+
+Path A: Steal a Silver Vase from the Haveli and sell it to the Scrap Yard. (Get ₹2000. Eat well. But the Ghost Mother cries at night, lowering Sanity).
+
+Path B: Work double shifts at the Garage. (Get ₹300. Starve. But the Ghosts remain calm).
+
+Act 3: The Village Secret (Days 16-24)
+
+Discovery: Using the Time Camera in the Village (not just the house).
+
+The Shock: Aryan films the Tea Stall in 1984.
+
+He sees the Shopkeeper (Kaka) and the Priest talking to The Stranger.
+
+Dialogue: "Take the money, Kaka. Just turn a blind eye to what happens at the Kothi tonight."
+
+Confrontation: Aryan shows the footage to Kaka in the present.
+
+Kaka breaks down. The whole village took bribes to ignore the fire 40 years ago. The "Trust" system flips. Now the Villagers owe Aryan. They give him the Master Key to the Haveli crypt.
+
+Act 4: The Preparation (Days 25-29)
+
+The Siege: The Stranger knows Aryan knows. He makes the Kothi extremely hostile.
+
+The Village Rally:
+
+If you have High Trust: The Villagers give you supplies. Panditji blesses your Axe. Riya gives you the map of the gas pipes.
+
+If you have Low Trust: You are on your own.
+
+GAMEPLAY EXAMPLE: A RANDOM TUESDAY (Day 12)
+
+09:00 AM: Wake up in Haveli. Sanity is low (shaky hands).
+
+09:30 AM: Walk to Village. Eat a Samosa at Tea Stall (+10 Health).
+
+10:00 AM: Talk to Riya at School.
+
+Interaction: Show her a diary page. She translates: "The Stranger is weak against Copper."
+
+11:00 AM: Go to Scrap Yard. Buy old Copper Wire (₹50).
+
+02:00 PM: Work at Garage repairing a bike. Earn ₹100.
+
+06:00 PM: Return to Kothi.
+
+07:00 PM: Crafting. Combine Axe + Copper Wire.
+
+New Item: Conductive Axe (Does more damage to the Entity).
+
+09:00 PM: Explore the Basement. Use the new Axe to break a reinforced door.
+
+10:00 PM: Find the Generator.
+
+Puzzle: Rewire it.
+
+Result: Lights turn on in the garden! The Stranger can no longer hide in the garden shadows.
+
+01:00 AM: Sleep.
+
+IMMERSIVE DETAILS (The "Big Game" Feel)
+
+The Phone Booth: You can try to call your Mom in Mumbai.
+
+Early Game: "Mom, I got a job!"
+
+Late Game: "Mom... I don't think I'm coming home. I love you." (Voice acting changes to terrified).
+
+Cooking System:
+
+The Haveli kitchen works if you fix the gas. You can buy raw vegetables from the village and cook proper meals (High Health/Sanity boost) instead of eating raw bread.
+
+Radio Broadcasts:
+
+The radio in the Kothi sometimes plays news from 1984, sometimes news from 2024. Sometimes it just broadcasts Aryan's own thoughts.
+
+Weather System:
+
+Dynamic weather. Rain makes the Kothi muddy (footprints appear). Fog makes the Stranger harder to see. Heatwave makes stamina drain faster.
+
+Does this scale feel big enough? It turns the game into a living world where the Village and the House are connected by economy, history, and guilt.
+
+"""
+
+This is the Master Game Design Document & Script. It combines your cinematic story with the deep RPG systems (Trust, Economy, Open World) into a single, cohesive blueprint for development.
+GAME TITLE: THE KOTHI (WIRASAT)
+
+Genre: First-Person Psychological Horror / Life Sim RPG Core Loop: Work to survive (Day) → Solve mysteries (Night) → Save the Past.
+PART 1: GAMEPLAY SYSTEMS (The "Big Game" Mechanics)
+1. The Economy (The Wallet)
+
+    Starting Funds: ₹412.
+
+    Daily Costs: Food (₹50-100), Batteries (₹50).
+
+    Income Sources:
+
+        Manual Labor: Fixing bikes at Raju’s Garage (₹150/shift).
+
+        Scavenging: Selling "Antique Spoons/Vases" from the Kothi to the Scrap Dealer (₹500+). Consequence: Lowers "Karma" (Ghosts become aggressive).
+
+        Engineering: Fixing the Village Water Pump (One-time bonus: ₹1000).
+
+2. The Trust System (Reputation)
+
+    Level 0 (Outsider): Prices are double. Key locations (Temple, School) are locked. Kaka is rude.
+
+    Level 1 (Useful): Unlocks normal prices. Unlocks "Raju’s Garage" jobs.
+
+    Level 2 (Friend): Unlocks "Riya the Historian" (Translation service).
+
+    Level 3 (Savior): Villagers give you free items (Holy Thread, Master Keys) for the finale.
+
+3. The "Time Camera" (Main Tool)
+
+    Right Click: Raise Viewfinder (See 1984).
+
+    Left Click: Flash (Stun Entity).
+
+    Passive: If you film specific locations (Tea Stall, Kothi Garden), you unlock "Memory Tapes."
+
+PART 2: THE FULL SCRIPT & WALKTHROUGH
+INTRO: THE COSMIC JOKE
+
+[CUTSCENE] VISUAL: Pitch black. AUDIO: A deep, booming voice (Mahabharat Style). SAMAY: "Main Samay Hoon..." (I am Time). (Visual: BOOM Emoji 💥 -> Big Bang Explosion -> Dinosaurs -> War -> Trains -> 2025). SAMAY: "I have seen the birth of stars. I have seen the silence of the void. And now..." (Sound: Record Scratch Krrr-Krrr)
+
+[SCENE START] INT. MUMBAI APARTMENT - DAY A messy 1RK. Ceiling fan wobbling. Aryan (25) sits in his underwear, scraping a dry Maggi cup. Screen: “Regarding your employment... Fired.” Aryan: "Layoffs. Knew it." (Checks wallet: ₹412). "Great. Homeless by Tuesday."
+
+EXT. TEA STALL - DAY Aryan sits, depressed. A Rolls Royce pulls up. The Stranger exits. Stranger: "Boy. Tea." Aryan serves him. Stranger: (Laughs) "You look like a man who needs an opportunity." Aryan: "Yes sir. I can do anything. I'm a civil engineer." Stranger: "My clients bought an old Kothi in Rajasthan. Empty for 40 years. Clean it for a month. ₹50,000 cash." Aryan: "Done. When do I start?" Stranger: "Go there. I'll call you on the landline."
+ACT 1: THE OUTSIDER (Days 1-7)
+The Village Hub (Open World)
+
+[GAMEPLAY START] Aryan gets off the bus. The village is colorful but silent.
+
+Quest: First Supplies Aryan enters the General Store. Aryan: "Namaste Kaka. I am the new watchman at Kothi 17." Kaka: (Freezes. Stares silently.) "Get out." Aryan: "I just need bread." Kaka: "Double price for the Watchman."
+
+Decision Point (The Axe): On the wall is a Rusty Axe (₹350).
+
+    Wallet: ₹412.
+
+    Choice: Buy the Axe (Defense) OR Buy Food + Flashlight (Survival).
+
+    Outcome: If you buy the Axe, you starve (Stamina penalty). If you buy Food, you are defenseless at night.
+
+The Kothi (Exploration)
+
+Aryan walks to the massive, vine-covered Haveli. Task: Clear trash. Discovery: Under a chair in the smoking area. Note (Bunty, 1995): "Day 3. Easy money. Villagers are superstitious fools. But... why is it so cold in the hallway? And I swear I left my cigarettes on the table, but I found them in the sink. Rats, probably." Aryan: "Heh. Amateur."
+
+Immersive Detail: Aryan tries to use the Kothi's tap. No water. Engineering Task: Go to basement -> Fix pipes. Reward: Running water works. Now you can wash your face to restore Sanity.
+ACT 2: THE STORM & THE TRUTH (Days 8-15)
+
+[EVENT: THE FALSE STORM] Night: Thunder shakes the Kothi. Rain pours. Day: Aryan runs to Kaka. Aryan: "It rained so much last night!" Kaka: "Are you drunk? It is May. Bone dry."
+
+Night: The Storm returns. Aryan looks through the gate. The Village is dry. The rain is only inside the Kothi walls. CRASH! A window breaks.
+
+[PUZZLE: THE RUSTED BOX] While fixing the window, Aryan finds a box under the floor. Item Get: Super-8 Camera + The Photo (Family + Stranger). The Horror: The Stranger in the 40-year-old photo looks identical to the man at the tea stall.
+
+Mechanic Tutorial: Aryan lifts the Camera.
+
+    View: The room turns Golden (1984).
+
+    Scare: In the viewfinder, the Stranger is standing in the corner, smiling. Aryan lowers the camera; the room is empty.
+
+Building Trust (Side Quests)
+
+Aryan needs answers. The villagers won't talk. Quest: The Water Pump
+
+    Problem: The village pump is broken.
+
+    Action: Aryan uses his Engineering degree to fix the pressure valve.
+
+    Result: Trust Level Up (1 -> 2). Kaka apologizes.
+
+    Reward: Kaka gives you the "Old Radio Parts" needed to fix the communication device in the Kothi.
+
+ACT 3: THE BETRAYAL (Days 16-24)
+
+[THE LOOP BEGINS] Phone Call: The broken landline rings. Stranger: "Set the table for 4. Wind the clock to 8:15. Play Raag Malhar." Aryan does the tasks. No one comes. Next day: Same call. Same tasks.
+
+[DISCOVERY: THE VILLAGE SECRET] Aryan takes the Camera to the Village Tea Stall (Daytime). Mechanic: Filming the past outside the house. Video Playback: 1984. The Stranger is handing a bag of cash to Kaka and the Pandit. Stranger (Audio): "Take the money. Ignore the smoke tonight. The Kothi burns, you see nothing."
+
+Confrontation: Aryan plays the tape for Kaka in the Present. Kaka: (Weeping) "We were poor... he offered so much gold... we let them die." Trust Level Up (Max). Reward: Kaka gives Aryan the Master Key (opens the locked Crypt in the Kothi). Reward: Panditji gives Aryan the Raksha Sutra (Holy Thread - blocks one fatal attack).
+
+[THE ECONOMY GRIND] Aryan is out of money. Choice:
+
+    Path A (Dark): Steal the Silver Cutlery from the Ghost Dining Room. Sell to Scrap Dealer. (High Money, Low Sanity).
+
+    Path B (Light): Work double shifts at Raju's Garage. (Low Money, High Trust).
+
+ACT 4: THE PREPARATION (Days 25-29)
+
+Objective: Break the Loop. Aryan finds the First Watchman's Diary (The Father) in the Crypt (using Master Key). Text: "I am the owner. The Stranger feeds on the tragedy. He makes us relive the fire every night. Don't clean the house, Watchman. Change the stage."
+
+The Setup (Crafting & Puzzles):
+
+    The Weapon: Combine Axe + Copper Wire (bought from Scrap Yard). The Entity is weak to conductive metal.
+
+    The Escape: Use the Axe to break down the boarded-up back door in the Present, which clears the path in the Past.
+
+    The Gas: Go to the kitchen. The valve is rusted. Use Oil (bought from Kaka) + Wrench to loosen it.
+
+Immersive Detail: Aryan calls his Mom from the village booth. Aryan: "Ma... I might not come home. But I'm doing something good."
+ACT 5: THE CLIMAX (Day 30)
+
+Time: 8:15 PM. The Echoes (Ghost Family) arrive. The Stranger (Entity) manifests as a shadow.
+
+[GAMEPLAY SEQUENCE] Step 1: The Gas Ghost Mother lights the match.
+
+    Action: Aryan tightens the valve in the present.
+
+    Result: No explosion. The loop glitches.
+
+Step 2: The Battle The Stranger realizes the script is broken. He attacks.
+
+    Mechanic: He is invisible. Look through Camera.
+
+    Combat: Wait for him to lunge -> FLASH him -> Hit with Copper Axe.
+
+Step 3: The Child The Ghost Child is trapped in the bedroom.
+
+    Action: Aryan smashes the door (which he weakened in Act 4).
+
+    Result: Child runs free.
+
+Step 4: The Escape Aryan guides the confused ghosts. Aryan: "FOLLOW THE LIGHT!" (Uses Flashlight). The family crosses the threshold. They turn into beams of light and vanish.
+
+[ENDING] The Kothi collapses. Aryan jumps out window.
+EPILOGUE: THE PAYOFF
+
+EXT. RUINS - MORNING Aryan wakes up in the rubble. Kaka: "You survived! The curse is broken!" Aryan checks his phone. Notification: Payment Failed.
+
+Aryan laughs. He kicks a stone. Discovery: He finds the Gold Pocket Watch (dropped by the Ghost Father). Value: ₹10,00,000.
+
+SAMAY (V.O.): "Time creates circles. But sometimes, a civil engineer with a rusted axe creates a straight line. Aryan didn't get his salary. He got a future."
+
+(Visual: BOOM Emoji 💥) SAMAY: "Okay, cut. Next universe!"
+
+[CREDITS ROLL]
+
+bruh u havent added all the parts u said above
+
+
+
+This changes everything. Now we are moving from a "Walking Simulator" to a full-blown **Open World RPG / Mystery Simulation.**
+
+
+This version, **"The Kothi: Wirasat (Extended Edition),"** focuses on the **Economy**, the **Social System (Trust)**, and **Deep Exploration**.
+
+
+Here is the expanded Game Design Document.
+
+
+---
+
+
+# CORE SYSTEMS
+
+
+### 1. The Day/Night Cycle
+
+* **07:00 AM - 05:00 PM (Village Phase):** The Haveli is locked/inactive. You spend time in the village, doing side jobs, buying supplies, and investigating lore.
+
+* **06:00 PM - 04:00 AM (Haveli Phase):** You enter the Kothi. The supernatural elements activate. You work, survive, and explore.
+
+
+### 2. The "Trust" System (Reputation)
+
+The villagers know about the Kothi's curse. They don't trust outsiders.
+
+* **Low Trust:** Shops overcharge you. People won't talk about the history. Key areas (Temple, Library) are locked.
+
+* **High Trust:** You get discounts. Elders tell you secrets. You unlock special items (Holy threads, Ancient Maps).
+
+
+### 3. The Economy (The 412 Rupees Problem)
+
+You need money to survive 30 days. You can't just wait for the 50k.
+
+* **Income:** Fix electronics for villagers, deliver milk, or **sell "junk" found in the Haveli to the Scrap Dealer** (Moral Consequence: The ghosts get angry if you steal their stuff).
+
+
+---
+
+
+# LOCATION 1: THE VILLAGE (Anandgarh)
+
+*A fully explorable hub with 5 key zones.*
+
+
+### **A. General Store (Kaka's Shop)**
+
+* **Interaction:** Buy Food, Batteries, Fuse Wire, Tools.
+
+* **Side Quest:** *The Broken Radio.* Kaka’s old radio is broken. If you (as an engineer) fix it using parts found in the Haveli, he gives you a **50% Discount** for life.
+
+
+### **B. The Temple (Mandir)**
+
+* **NPC:** **Panditji**. He senses the evil on you.
+
+* **Mechanic:** Sanity Restoration. If your fear level is too high, sit here to meditate.
+
+* **Quest:** *The Lost Idol.* Find a small Ganesh idol lost in the Haveli 40 years ago.
+
+    * *Reward:* **Raksha Sutra (Holy Thread)**. Wearing this allows you to survive one attack from the Stranger without taking damage.
+
+
+### **C. The Tea Stall & Garage**
+
+* **NPC:** **Raju (Mechanic)**.
+
+* **Shop:** Upgrades for your Flashlight (brighter beam) and Camera (longer battery life).
+
+* **Mini-Game:** Help Raju fix a tractor engine to earn ₹200.
+
+
+### **D. The School / Library**
+
+* **NPC:** **Riya (Teacher/Historian)**.
+
+* **Function:** Research. When you find weird symbols or letters in the Haveli, bring them here. Riya translates them for you.
+
+* **Trust unlock:** She only talks to you if your Reputation is Level 3.
+
+
+### **E. The Scrap Yard**
+
+* **NPC:** **Shady Guy**.
+
+* **Function:** Sell antique spoons, vases, or paintings you steal from the Kothi.
+
+* **Risk:** Selling items lowers your "Karma." Low Karma = More aggressive ghosts at night.
+
+
+---
+
+
+# LOCATION 2: THE KOTHI (The Deep Exploration)
+
+*It’s not just rooms. It’s an ecosystem of thousands of interactable objects.*
+
+
+### **Interactive Object Examples (The "Random Things"):**
+
+
+1.  **The Gramophone (Music Room):**
+
+    * You find vinyl records scattered around the house.
+
+    * *Action:* Playing different records changes the environment.
+
+    * *Secret:* Playing "Raag Deepak" melts a wax seal on a hidden cabinet.
+
+
+2.  **The Telescope (Attic):**
+
+    * It’s pointed at the sky.
+
+    * *Puzzle:* You have to align the lenses.
+
+    * *Payoff:* Looking through it doesn't show stars. It shows the **Village** as it looked 100 years ago. You see where a treasure was buried in the village garden.
+
+
+3.  **The Plumbing System (Basement):**
+
+    * The water is off. You can use your Engineering skills to fix the pipes.
+
+    * *Result:* Running water works in the bathroom. Now you can wash your face to restore Sanity.
+
+
+4.  **The Library Books:**
+
+    * There are 50+ readable books.
+
+    * Most are generic. But some contain **Skills**.
+
+    * *Example:* Reading "Basic Lockpicking" unlocks the ability to open locked drawers without keys.
+
+
+5.  **The Toy Train (Child’s Room):**
+
+    * It’s missing tracks.
+
+    * *Side Quest:* Find track pieces in different rooms.
+
+    * *Reward:* When the train runs, it carries a small key on its back from under the bed.
+
+
+---
+
+
+# EXPANDED NARRATIVE SCRIPT
+
+
+### **Act 1: The Outsider (Days 1-7)**
+
+* **Village:** Aryan is ignored. He has to sleep in the Kothi (scary). He eats cheap biscuits.
+
+* **Task:** Kaka refuses to sell him the Axe because "outsiders cause trouble."
+
+* **Mission:** Aryan must fix the Village Water Pump (Engineering minigame) to prove he is useful.
+
+* **Reward:** Trust Level 1. Kaka sells the Axe.
+
+
+### **Act 2: The Thief or The Caretaker? (Days 8-15)**
+
+* **Economy Crisis:** Aryan runs out of money.
+
+* **Choice:**
+
+    * *Path A:* Steal a Silver Vase from the Haveli and sell it to the Scrap Yard. (Get ₹2000. Eat well. But the Ghost Mother cries at night, lowering Sanity).
+
+    * *Path B:* Work double shifts at the Garage. (Get ₹300. Starve. But the Ghosts remain calm).
+
+
+### **Act 3: The Village Secret (Days 16-24)**
+
+* **Discovery:** Using the **Time Camera** in the *Village* (not just the house).
+
+* **The Shock:** Aryan films the Tea Stall in 1984.
+
+    * He sees the Shopkeeper (Kaka) and the Priest talking to **The Stranger**.
+
+    * *Dialogue:* "Take the money, Kaka. Just turn a blind eye to what happens at the Kothi tonight."
+
+* **Confrontation:** Aryan shows the footage to Kaka in the present.
+
+    * Kaka breaks down. The whole village took bribes to ignore the fire 40 years ago. The "Trust" system flips. Now the Villagers *owe* Aryan. They give him the **Master Key** to the Haveli crypt.
+
+
+### **Act 4: The Preparation (Days 25-29)**
+
+* **The Siege:** The Stranger knows Aryan knows. He makes the Kothi extremely hostile.
+
+* **The Village Rally:**
+
+    * If you have **High Trust**: The Villagers give you supplies. Panditji blesses your Axe. Riya gives you the map of the gas pipes.
+
+    * If you have **Low Trust**: You are on your own.
+
+
+---
+
+
+# GAMEPLAY EXAMPLE: A RANDOM TUESDAY (Day 12)
+
+
+**09:00 AM:** Wake up in Haveli. Sanity is low (shaky hands).
+
+**09:30 AM:** Walk to Village. Eat a Samosa at Tea Stall (+10 Health).
+
+**10:00 AM:** Talk to Riya at School.
+
+* *Interaction:* Show her a diary page. She translates: "The Stranger is weak against Copper."
+
+**11:00 AM:** Go to Scrap Yard. Buy old Copper Wire (₹50).
+
+**02:00 PM:** Work at Garage repairing a bike. Earn ₹100.
+
+**06:00 PM:** Return to Kothi.
+
+**07:00 PM:** Crafting. Combine **Axe** + **Copper Wire**.
+
+* *New Item:* **Conductive Axe** (Does more damage to the Entity).
+
+**09:00 PM:** Explore the Basement. Use the new Axe to break a reinforced door.
+
+**10:00 PM:** Find the **Generator**.
+
+* *Puzzle:* Rewire it.
+
+* *Result:* Lights turn on in the garden! The Stranger can no longer hide in the garden shadows.
+
+**01:00 AM:** Sleep.
+
+
+---
+
+
+# IMMERSIVE DETAILS (The "Big Game" Feel)
+
+
+1.  **The Phone Booth:** You can try to call your Mom in Mumbai.
+
+    * *Early Game:* "Mom, I got a job!"
+
+    * *Late Game:* "Mom... I don't think I'm coming home. I love you." (Voice acting changes to terrified).
+
+
+2.  **Cooking System:**
+
+    * The Haveli kitchen works if you fix the gas. You can buy raw vegetables from the village and cook proper meals (High Health/Sanity boost) instead of eating raw bread.
+
+
+3.  **Radio Broadcasts:**
+
+    * The radio in the Kothi sometimes plays news from 1984, sometimes news from 2024. Sometimes it just broadcasts Aryan's own thoughts.
+
+
+4.  **Weather System:**
+
+    * Dynamic weather. Rain makes the Kothi muddy (footprints appear). Fog makes the Stranger harder to see. Heatwave makes stamina drain faster.
+
+
+**Does this scale feel big enough?** It turns the game into a living world where the Village and the House are connected by economy, history, and guilt.
+
+This is the Ultimate Game Script & Design Document.
+
+I have merged the Cinematic Story with the Open World/RPG Mechanics into one seamless document. This script tells you exactly when the cutscenes happen, when the player explores, how the economy works, and how the Trust system changes the plot.
+GAME TITLE: THE KOTHI: WIRASAT (The Legacy)
+
+Genre: Open World Horror RPG / Simulation Setting: Anandgarh Village (Hub) & The Raichand Kothi (Dungeon)
+PHASE 1: THE PROLOGUE (The Cosmic Setup)
+
+[CUTSCENE - NON-INTERACTIVE] VISUAL: Pitch black. AUDIO: A deep, booming voice (Mahabharat Style). SAMAY: "Main Samay Hoon..." (I am Time). (Visual: BOOM Emoji 💥 -> Big Bang Explosion -> Dinosaurs -> War -> 2025). SAMAY: "Time creates circles. Humans run in straight lines. Let us watch one such human run into a wall." (Sound: Record Scratch Krrr-Krrr)
+
+[SCENE START - INTERACTIVE TUTORIAL] INT. MUMBAI APARTMENT - DAY A messy 1RK. Ceiling fan wobbling. Aryan (25) sits in his underwear. Task: Check Laptop. Screen: “You are Fired.” Task: Check Wallet (Inventory Tutorial). HUD: Cash: ₹412. Aryan: "Great. Rent is due. Food is zero."
+
+EXT. TEA STALL - MUMBAI - DAY Aryan sits, depressed. The Rolls Royce pulls up. The Stranger exits. Stranger: "Boy. Tea." Aryan serves him. Stranger: "You look desperate. I have a job. Clean an old Kothi in Rajasthan. One month. ₹50,000 cash." Aryan: "I'll take it." Stranger: "Good. Don't make me wait."
+PHASE 2: ACT 1 - THE OUTSIDER (Days 1-7)
+
+[GAMEPLAY START - OPEN WORLD UNLOCKED]
+
+EXT. ANANDGARH VILLAGE - DAY Aryan gets off the bus. Objective: Survive the first week.
+Location: The General Store
+
+Aryan meets Kaka. Aryan: "Namaste. I am the Watchman for Kothi 17." Kaka: (Freezes) "Get out. I don't serve dead men." System Update: Trust Level: 0 (Outsider). Prices are doubled.
+The Economy Crisis (The First Choice)
+
+Aryan looks at the shop inventory.
+
+    Food (Biscuits/Milk): ₹100.
+
+    Flashlight: ₹150.
+
+    Rusty Axe: ₹350. Wallet: ₹412. The Choice:
+
+    If you buy the Axe: You starve (Stamina bar drops).
+
+    If you buy Food: You are defenseless.
+
+Location: The Kothi (First Entry)
+
+Aryan walks to the Haveli. It is massive, vine-covered. Task: Clean the Smoking Area. Discovery: Bunty's Note (1995) under a chair. Lore: "Why is the hallway cold? Why did my cigarettes move?"
+Deep Exploration: The Plumbing
+
+Aryan tries the tap. No water. Engineering Mini-Game: Go to the Basement -> Find the rusted pipes -> Connect the valves. Result: Water flows! Benefit: You can now wash your face in the bathroom to restore Sanity.
+Side Quest: Earning Trust
+
+Aryan returns to the village dirty and tired. Observation: The Village Water Pump is broken. Villagers are struggling. Action: Aryan uses his Engineering skill to fix the pump. Result: Trust Level Up (1). Benefit: Kaka apologizes. Prices return to normal. He opens the "Back Room" where he sells Oil and Tools.
+PHASE 3: ACT 2 - THE THIEF OR THE WORKER (Days 8-15)
+
+[EVENT: THE FALSE STORM] Night: A massive storm hits the Kothi. Windows break. Day: The Village is bone dry. Kaka: "It never rains in May, beta. You are imagining things."
+
+[PUZZLE: THE RUSTED BOX] While fixing the window, Aryan finds the Super-8 Camera + The Photo. Mechanic: The Camera sees 1984. Horror: In the viewfinder, The Stranger stands in the corner of the room, smiling.
+The Economy Grind (Money is 0)
+
+Aryan is broke. He needs money for batteries and food. Player Choice:
+
+    Option A: The Honest Work (Garage)
+
+        Go to Raju’s Garage.
+
+        Mini-Game: Fix tractor engines.
+
+        Reward: ₹150/day. (Slow, but safe).
+
+    Option B: The Scrap Yard (Thief)
+
+        Go to Kothi Dining Room. Steal Silver Spoons.
+
+        Go to Scrap Yard (Shady Guy).
+
+        Reward: ₹2000 instantly.
+
+        Consequence: Karma Down. The Ghost Mother cries violently at night. Sanity drains faster.
+
+Deep Exploration: The Attic
+
+Aryan finds a Telescope. Puzzle: Align the lenses. Payoff: Looking through it reveals the Village Garden in 1920. He sees a glowing spot where a treasure is buried. Action: Go to Village Garden -> Dig -> Find Gold Coin (Can be sold).
+PHASE 4: ACT 3 - THE VILLAGE SECRET (Days 16-24)
+
+[NARRATIVE: THE LOOP] The Stranger calls on the broken landline. Stranger: "Set the table. Wind the clock. Guests are coming." Aryan does it. No one comes. The days repeat.
+Discovery: The School Library
+
+Aryan finds strange symbols in the Kothi. He takes a photo and goes to Riya (Teacher) at the School. Requirement: Trust Level 2 needed. Riya: "These aren't random. This is a binding spell. The Stranger is trapped here too. He needs copper to conduct energy." New Recipe: Conductive Axe (Axe + Copper Wire).
+The Twist: The Camera in the Village
+
+Aryan takes the Camera to the Tea Stall. Mechanic: Filming the Past (1984). Visual: He sees Kaka and the Pandit taking a bag of money from The Stranger. Audio: "Let the house burn tonight. You saw nothing."
+Confrontation
+
+Aryan shows the video to Kaka. Kaka: (Breaks down) "We were starving... he offered gold... we let them die." Result: Trust Level Max (Savior). Reward:
+
+    Kaka gives the Master Key (Opens the Kothi Crypt).
+
+    Panditji gives the Raksha Sutra (Holy Thread - Blocks 1 Hit).
+
+PHASE 5: ACT 4 - THE PREPARATION (Days 25-29)
+
+[THE SIEGE] The Stranger knows Aryan knows. The Kothi becomes hostile. Doors slam. Objects fly.
+Immersive Detail: The Phone Booth
+
+Aryan calls his Mom from the village booth. Aryan: "Ma... I might not make it back. I love you." (The line cuts to static. The Stranger laughs on the other end).
+Crafting & Upgrades
+
+    Weapon: Aryan goes to Scrap Yard. Buys Copper Wire. Wraps his Axe.
+
+    Health: Aryan buys Vegetables. Cooks a "Full Meal" in the Kothi kitchen (Requires fixed gas). Max Stamina.
+
+    Intel: Aryan enters the Crypt (Master Key). Finds the First Watchman's Diary.
+
+        Clue: "The Gas Valve in the kitchen was sabotaged. Fix it in the present to save them in the past."
+
+PHASE 6: ACT 5 - THE CLIMAX (Day 30)
+
+TIME: 8:15 PM. The Echoes (Ghost Family) arrive. The Stranger manifests as a Shadow Monster.
+
+[GAMEPLAY SEQUENCE - THE SAVE]
+
+Step 1: The Gas (Engineering Skill) Ghost Mother lights the match. Action: Aryan rushes to kitchen. Uses Wrench + Oil to tighten the rusted valve in the present. Effect: No explosion. The Stranger screams.
+
+Step 2: The Battle (Combat) The Stranger attacks Aryan. Action:
+
+    Raise Camera -> Flash (Stun).
+
+    Swing Copper Axe (Damage).
+
+    If hit: Raksha Sutra breaks, saving Aryan's life.
+
+Step 3: The Locked Door (Strength) Ghost Child is trapped. Action: Aryan smashes the door with the Axe. Effect: Child runs free.
+
+Step 4: The Escape Aryan guides the confused Ghosts. Aryan: "FOLLOW THE LIGHT!" He points his Flashlight at the open door. The Family crosses the threshold. They turn into light and vanish.
+EPILOGUE: THE PAYOFF
+
+[CUTSCENE] The Stranger implodes. The Kothi collapses. Aryan jumps out the window.
+
+EXT. RUINS - MORNING Aryan wakes up in the rubble. Kaka: "You did it. The air... it feels light."
+
+The Reward: Aryan checks his phone. Notification: Payment Failed. Aryan: (Laughs) "Typical."
+
+He kicks the rubble. He finds the Gold Pocket Watch (dropped by the Ghost Father). Valuation HUD: Item Value: ₹10,00,000.
+
+SAMAY (V.O.): "Time creates circles. But sometimes, a civil engineer with a rusted axe creates a straight line." "Aryan didn't get his salary. He got a future."
+
+(Visual: BOOM Emoji 💥) SAMAY: "Okay, cut. Who's next? A software developer in Bangalore? Boring."
+
+[CREDITS ROLL - Player stats shown: Days Survived, Money Earned, Trust Level]
+
+very very less exploration still bruh 
+
+Gemini can make mistakes, so double-check it
