@@ -22,6 +22,14 @@
 		{
 			"Name": "OneSkyLocalizationService",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterAdvanced",
+			"Enabled": true
 		}
 	]
 }
